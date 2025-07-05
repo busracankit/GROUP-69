@@ -20,12 +20,11 @@
       max-width: 1100px;
       margin: auto;
     }
-
     /* Başlıklar */
     header {
       text-align: center;
       margin-bottom: 40px;
-    }
+   }
     header h1 {
       font-size: 2.5rem;
       color: #004085;
@@ -36,7 +35,6 @@
       color: #555;
       margin-top: 10px;
     }
-
     /* Ürün bölümü */
     .product-section {
       background: #fff;
@@ -44,7 +42,7 @@
       border-radius: 12px;
       box-shadow: 0 5px 15px rgba(0,0,0,0.1);
       margin-bottom: 60px;
-    }
+   }
     .product-section h2 {
       margin-bottom: 20px;
       color: #004085;
@@ -54,7 +52,6 @@
       line-height: 1.6;
       color: #333;
     }
-
     /* Takım bölümü */
     .team-section {
       margin-bottom: 60px;
@@ -116,7 +113,6 @@
     .social-links a:hover {
       color: #004085;
     }
-
     /* Ürün özellikleri bölümü */
     .features-section {
       background: #fff;
@@ -146,25 +142,24 @@
     }
     .feature-item:hover {
       background: #cce0ff;
-    }
+  }
     .feature-icon {
       flex-shrink: 0;
       width: 36px;
       height: 36px;
       fill: #004085;
       margin-top: 4px;
-    }
+  }
     .feature-text h3 {
       margin-bottom: 8px;
       color: #003366;
       font-size: 1.15rem;
-    }
+  }
     .feature-text p {
       font-size: 1rem;
       line-height: 1.5;
       color: #333;
-    }
-
+   }
     /* Accordion bölümü */
     details {
       background: #fff;
@@ -177,7 +172,7 @@
     }
     details[open] {
       box-shadow: 0 12px 30px rgba(0,0,0,0.15);
-    }
+  }
     summary {
       font-weight: 700;
       font-size: 1.15rem;
@@ -207,7 +202,6 @@
       line-height: 1.5;
       font-size: 1rem;
     }
-
     /* Responsive */
     @media (max-width: 600px) {
       .features-grid, .team-grid {
@@ -218,19 +212,16 @@
 </head>
 <body>
   <div class="container">
-
     <!-- Başlık -->
     <header>
       <h1>PROJE ADI</h1>
       <p>Kısa açıklama / slogan</p>
     </header>
-
     <!-- Ürün Tanımı -->
     <section class="product-section">
       <h2>Ürün Hakkında</h2>
       <p>Ürünün genel tanımı buraya gelecek.</p>
     </section>
-
     <!-- Takım Bölümü -->
     <section class="team-section">
       <h2>Takımımız</h2>
@@ -247,7 +238,6 @@
         <!-- Buraya diğer takım üyeleri eklenir -->
       </div>
     </section>
-
     <!-- Ürün Özellikleri -->
     <section class="features-section">
       <h2>Özellikler</h2>
@@ -261,7 +251,6 @@
         </div>
         <!-- Diğer özellikler -->
       </div>
-
       <!-- Accordion örnek -->
       <details>
         <summary>Detaylı Bilgi Başlığı</summary>
@@ -272,7 +261,6 @@
         <p>İkinci detay açıklaması.</p>
       </details>
     </section>
-
   </div>
 </body>
 </html>
