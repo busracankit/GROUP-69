@@ -55,7 +55,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/onur.png" width="50" height="50" /></td>
+      <td><img src="Requirements/photo_team/kemal.png" width="50" height="50" /></td>
       <td>Kemal Baz </td>
       <td>Developer</td>
       <td>
