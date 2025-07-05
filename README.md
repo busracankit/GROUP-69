@@ -1,266 +1,291 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Takım & Ürün Sayfası</title>
-  <style>
-    /* Reset & temel stiller */
-    * {
-      box-sizing: border-box;
-      margin: 0; padding: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    body {
-      background: #f9fafb;
-      color: #222;
-      padding: 20px;
-    }
-    .container {
-      max-width: 1100px;
-      margin: auto;
-    }
-    /* Başlıklar */
-    header {
-      text-align: center;
-      margin-bottom: 40px;
-   }
-    header h1 {
-      font-size: 2.5rem;
-      color: #004085;
-      letter-spacing: 2px;
-    }
-    header p {
-      font-size: 1.1rem;
-      color: #555;
-      margin-top: 10px;
-    }
-    /* Ürün bölümü */
-    .product-section {
-      background: #fff;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-      margin-bottom: 60px;
-   }
-    .product-section h2 {
-      margin-bottom: 20px;
-      color: #004085;
-    }
-    .product-section p {
-      font-size: 1rem;
-      line-height: 1.6;
-      color: #333;
-    }
-    /* Takım bölümü */
-    .team-section {
-      margin-bottom: 60px;
-    }
-    .team-section h2 {
-      text-align: center;
-      margin-bottom: 40px;
-      color: #004085;
-    }
-    .team-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
-      gap: 25px;
-    }
-    .team-member {
-      background: #fff;
-      border-radius: 15px;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-      padding: 20px;
-      text-align: center;
-      transition: transform 0.3s ease;
-      cursor: default;
-    }
-    .team-member:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 12px 30px rgba(0,0,0,0.15);
-    }
-    .member-photo {
-      width: 110px;
-      height: 110px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 3px solid #004085;
-      margin-bottom: 15px;
-      box-shadow: 0 3px 10px rgba(0,64,133,0.4);
-    }
-    .member-name {
-      font-weight: 700;
-      font-size: 1.3rem;
-      color: #003366;
-      margin-bottom: 6px;
-    }
-    .member-role {
-      font-style: italic;
-      font-size: 1rem;
-      color: #555;
-      margin-bottom: 12px;
-    }
-    .social-links {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-    }
-    .social-links a {
-      color: #555;
-      font-size: 1.3rem;
-      transition: color 0.3s ease;
-    }
-    .social-links a:hover {
-      color: #004085;
-    }
-    /* Ürün özellikleri bölümü */
-    .features-section {
-      background: #fff;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    }
-    .features-section h2 {
-      text-align: center;
-      margin-bottom: 30px;
-      color: #004085;
-    }
-    .features-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
-      gap: 25px;
-    }
-    .feature-item {
-      background: #e6f0ff;
-      border-radius: 12px;
-      padding: 20px;
-      box-shadow: inset 0 0 8px rgba(0,64,133,0.15);
-      transition: background 0.3s ease;
-      display: flex;
-      align-items: flex-start;
-      gap: 15px;
-    }
-    .feature-item:hover {
-      background: #cce0ff;
-  }
-    .feature-icon {
-      flex-shrink: 0;
-      width: 36px;
-      height: 36px;
-      fill: #004085;
-      margin-top: 4px;
-  }
-    .feature-text h3 {
-      margin-bottom: 8px;
-      color: #003366;
-      font-size: 1.15rem;
-  }
-    .feature-text p {
-      font-size: 1rem;
-      line-height: 1.5;
-      color: #333;
-   }
-    /* Accordion bölümü */
-    details {
-      background: #fff;
-      border-radius: 12px;
-      padding: 18px 25px;
-      margin-top: 25px;
-      box-shadow: 0 6px 20px rgba(0,0,0,0.08);
-      cursor: pointer;
-      transition: box-shadow 0.3s ease;
-    }
-    details[open] {
-      box-shadow: 0 12px 30px rgba(0,0,0,0.15);
-  }
-    summary {
-      font-weight: 700;
-      font-size: 1.15rem;
-      color: #004085;
-      list-style: none;
-      outline: none;
-      user-select: none;
-    }
-    summary::-webkit-details-marker {
-      display: none;
-    }
-    details[open] summary::after {
-      content: "▲";
-      float: right;
-      font-size: 1rem;
-      color: #004085;
-    }
-    summary::after {
-      content: "▼";
-      float: right;
-      font-size: 1rem;
-      color: #004085;
-    }
-    details p {
-      margin-top: 15px;
-      color: #333;
-      line-height: 1.5;
-      font-size: 1rem;
-    }
-    /* Responsive */
-    @media (max-width: 600px) {
-      .features-grid, .team-grid {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <!-- Başlık -->
-    <header>
-      <h1>PROJE ADI</h1>
-      <p>Kısa açıklama / slogan</p>
-    </header>
-    <!-- Ürün Tanımı -->
-    <section class="product-section">
-      <h2>Ürün Hakkında</h2>
-      <p>Ürünün genel tanımı buraya gelecek.</p>
-    </section>
-    <!-- Takım Bölümü -->
-    <section class="team-section">
-      <h2>Takımımız</h2>
-      <div class="team-grid">
-        <article class="team-member">
-          <img src="foto-url" alt="Üye İsmi" class="member-photo" />
-          <h3 class="member-name">İsim Soyisim</h3>
-          <p class="member-role">Görev / Rol</p>
-          <div class="social-links">
-            <a href="#" title="GitHub" aria-label="GitHub Link">🐙</a>
-            <a href="#" title="LinkedIn" aria-label="LinkedIn Link">🔗</a>
-          </div>
-        </article>
-        <!-- Buraya diğer takım üyeleri eklenir -->
-      </div>
-    </section>
-    <!-- Ürün Özellikleri -->
-    <section class="features-section">
-      <h2>Özellikler</h2>
-      <div class="features-grid">
-        <div class="feature-item">
-          <svg class="feature-icon" viewBox="0 0 24 24"><!-- ikon SVG --></svg>
-          <div class="feature-text">
-            <h3>Özellik Başlığı</h3>
-            <p>Açıklama buraya gelecek.</p>
-          </div>
-        </div>
-        <!-- Diğer özellikler -->
-      </div>
-      <!-- Accordion örnek -->
-      <details>
-        <summary>Detaylı Bilgi Başlığı</summary>
-        <p>Bu kısımda detaylı açıklamalar olabilir.</p>
-      </details>
-      <details>
-        <summary>Başka Bir Soru / Detay</summary>
-        <p>İkinci detay açıklaması.</p>
-      </details>
-    </section>
-  </div>
-</body>
-</html>
+ <html>
+  <body>
+
+  ![zaten](bootcampFiles/general/headers/zaten.png)
+
+  ![team and product](bootcampFiles/general/headers/teamandproduct.png)
+  # **Team & Product Name**
+
+  ### **`zaten`**
+
+  # Information About Team and Product
+
+  ## Team Members
+
+  <table>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Socials</th>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/burak.png" width="50" height="50" /></td>
+      <td>Burak Taha Cevheroğlu</td>
+      <td>Scrum Master</td>
+      <td>
+        <a href="https://github.com/burakcevheroglu" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/burakcevheroglu/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/bburaktaha/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/arda.png" width="50" height="50" /></td>
+      <td>Arda Demirel</td>
+      <td>Product Owner</td>
+      <td>
+        <a href="https://github.com/demirelarda" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/arda-demirel-9020b8233/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/hazal.png" width="50" height="50" /></td>
+      <td>Dila Hazal Bilgin</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/dilahazalbilgin" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/dila-hazal-bilgin-5123b1258" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/merve.png" width="50" height="50" /></td>
+      <td>Merve Ağaçayak</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/merveaa" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/merve-ağaçayak-551293238/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/onur.png" width="50" height="50" /></td>
+      <td>Onur Konuk</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/ONUR603445" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/onur-konuk/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+          <a href="https://www.instagram.com/onur___konuk" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+    <td><img src="bootcampFiles/general/squarepics/appicon.png" width="50" height="50" /></td>
+    <td>zaten</td>
+    <td>Startup</td>
+    <td>
+      <a href="https://www.linkedin.com/company/zatenapp" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      <a href="https://www.instagram.com/zaten.app/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+    </td>
+  </tr>
+  </table>
+
+
+
+
+
+  ## Product Description
+  zaten is a platform where users can securely rent their belongings or vehicles to one another. We are aware of the excessive and imbalanced production in the world and the resulting environmental damage. The long-term goals of zaten are to reduce energy consumption due to imbalanced production, decrease waste generated from overconsumption, and support a circular economy by encouraging the reuse of unused items. In doing so, we offer an economically beneficial solution to individuals amidst rising product prices, while also reducing pressure on biodiversity. Building a solid technological infrastructure and establishing a reliable legal foundation are among our core objectives.
+
+
+  <details>
+    <summary><h2>Product Features</h2></summary>
+
+  <h3>Item Rental:</h3>
+    <p>zaten allows users to rent out their belongings to others. Users can easily initiate the rental process, share item details, and rent out their items to others for a suitable fee.</p>
+
+  <h2>Vehicle Rental:</h2>
+    <p>zaten enables users to rent vehicles. Vehicle owners can rent out their unused vehicles to other users via the zaten platform, earning additional income. Renters can find and rent a suitable vehicle to meet their needs.</p>
+
+  <h2>Secure Payment System:</h2>
+    <p>zaten provides a secure payment system for users to make payments. Rental fees are processed through secure payment transactions conducted on the platform.</p>
+
+  <h2>Rating and Review System:</h2>
+    <p>zaten allows users to rate and review each other. This feature enables users to assess the reliability and satisfaction levels of other users and make informed choices.</p>
+
+  <h2>Reservation Management:</h2>
+    <p>zaten offers users reservation management capabilities. Users can make reservations for items or vehicles for their desired date range and specify the duration of usage.</p>
+
+  <h2>User-to-User Communication:</h2>
+    <p>zaten facilitates communication between users for discussing rental details. Users can directly communicate with item or vehicle owners, ask questions, negotiate prices, arrange delivery, and discuss other details. The chat feature provides a safer and more personalized communication experience, streamlining the rental process.</p>
+
+  <h2>User Support:</h2>
+    <p>zaten provides customer support services to users. Users can contact customer service when they have any issues or questions related to the platform and receive assistance.</p>
+
+  <h2>Categorization and Search:</h2>
+    <p>zaten allows users to categorize and search for items or vehicles. Users can filter based on desired categories or specific features, making it easy to find the item or vehicle they are looking for.</p>
+
+  <h2>Favorites:</h2>
+    <p>The Favorites feature serves as a personal catalog, allowing you to save and organize items or vehicles that have caught your interest. This curated list helps in quick decision-making, allowing you to rent an item whenever you're ready.</p>
+
+  <h2>Making an Offer:</h2>
+    <p>As a prospective renter, you can propose an offer on any product or vehicle you wish to rent. Simply go to the product page, click on 'Make an Offer,' and enter your desired price and date range. Once you submit your offer, it will be sent directly to the product owner for consideration.</p>
+
+  <h2>Receiving and Managing Offers:</h2>
+    <p>As a product owner, you can view all incoming offers on your personal 'Offers' page. Here, you'll see a list of all offers made on your items or vehicles, each with details including the proposed price, the desired rental period, and the prospective renter's information. You can review each offer and decide whether to accept, decline, or negotiate the terms. This feature gives you full control over your rental prices and schedules, allowing you to rent out your belongings or vehicles on your own terms.</p>
+
+  <h2>Our Sponsors' Customizable Profile:</h2>
+    <p>Our goal at zaten is to provide our sponsors with the opportunity to display their products on our platform, thereby encouraging users to rent or purchase them. Through our customizable Sponsor Profile pages that reflect our sponsors' unique brand identities, users can discover and safely rent or purchase the valuable products and services offered by our sponsors.</p>
+
+  <h2>Nearby Products:</h2>
+    <p>When using zaten, our location feature allows users to view products that are nearby. This ensures that potential optimal choices are surfaced based on their locality, offering a more convenient and efficient way for users to discover and rent items. The location feature streamlines the rental process, making it easier for users to find and rent the best products within their immediate vicinity.</p>
+
+  <h2>Multi-language Support:</h2>
+    <p>zaten also features multi-language support, ensuring that our platform is accessible and user-friendly to people from diverse linguistic backgrounds. This feature allows users to navigate the platform, browse items, and communicate with other users in their preferred language. By offering multi-language support, we aim to break down language barriers and foster a more inclusive and global community on zaten.</p>
+
+  </details>
+
+  <details>
+    <summary><h2>Target Audience</h2></summary>
+    <p>zaten's target audience primarily consists of Millennials and Gen Z who value access over ownership and are open to sharing resources. These younger generations are interested in renting various items such as electronics, fashion accessories, sports equipment, and tools. Urban dwellers, especially those in smaller apartments or shared living spaces, who have limited storage, prefer renting items like camping gear, home appliances, and furniture. Travelers and tourists with specific needs during their trips, as well as event planners requiring temporary access to equipment, are also potential users of zaten's app. Additionally, sustainable consumers who care about the environment and reducing waste can be attracted by emphasizing the role of sharing resources in achieving sustainability goals.</p>
+  </details>
+
+  --- 
+
+  ![sprints](bootcampFiles/general/headers/sprints.png)
+
+  <details>
+    <summary><h1>Sprint 1</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Authentication pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/10.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/11.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Homepage and Location pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/20.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/21.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/22.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Add Product pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/30.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/31.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/32.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/33.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Offers pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/40.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/41.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/42.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/43.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Profile and Settings pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/50.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/51.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/52.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/53.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Rent Product pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/60.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/61.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/62.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+  </table>
+  </details>   
+
+
+  <details>
+    <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
+    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/14.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/15.png" style="max-width: 100%; height: auto;">
+  </details>
+
+  <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="bootcampFiles/sprintOne/burndown/10.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/burndown/11.png" style="max-width: 100%; height: auto;">
+  </details>
+
+
+  - **Sprint Notes**:
+    - It has been decided to use `Trello` for project management.
+
+    - It has been decided to use `Figma` for UI designs.
+
+    - It has been decided to use `Riverpod` for state management.
+
+    - The `MVVM` structure has been set up and it will be proceeded on this basis.
+
+    - It has been decided to use `Firebase` for the backend, and the `GetX` system for the page routing system.
+
+    - It was decided to use `email login` for the login system.
+
+    - It was decided to perform `identity verification` following the login system.
+
+    - It has been decided to use `Hive` as the local database.
+  - **Expected point completion within Sprint**: 200 points
+  - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
+  - **Daily Scrum**: See file
+  - **Product Backlog URL:** Click for Backlog (Trello)
+  - **Sprint Review:**
+    - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
+
+    - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
+
+    - The two biggest problems we encountered in this sprint were difficulty in deciding on a color palette and not having completed the logo yet.
+
+    - We learned that the FloatingActionButton usage in the BottomNavigationBar and the notched feature of the navigation bar have been removed in Material 3, we overcame this issue by designing it ourselves.
+
+    - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
+
+  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+  - **Sprint Retrospective:**
+    - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
+
+    - In the second sprint, we decided to write our own API (for location information).
+
+    - We had to postpone the logo design to the second sprint. We will continue with the design.
+
+    - We will continue to develop the local database system (Hive).
+
+    - As Burak and Arda will continue more with software related tasks, much of the project management has been delegated to the remaining team members.
+
+    - In the second sprint, we will start writing a website for the zaten.app domain we bought for brand recognition. This task has been handed over to Onur.
+
+    - It was decided to establish a review system before the product goes live during the second sprint.
+
+    - For brand recognition and marketing purposes, it was decided to open an Instagram account during the second sprint.
+
+    - In addition to email authentication, it was decided to add the Google auth system in the second sprint.
+
+    - It was decided to add test AdMobs in the second sprint.
+
+    - We decided to start localization and the first languages will be English and Turkish.
+
+    - It was decided to add a user-to-user SDK with the Stream Chat SDK in the second sprint.
+
+
+  - **Other Notes**:
+  <details>
+    <summary><h3>Additional Files</h3></summary>
+    <ul>
+      <li><strong>Project Scope And Goals:</strong> <a href="./bootcampFiles/sprintOne/projectscopeandgoals.pdf">See file</a></li>
+      <li><strong>Target Audience:</strong> <a href="./bootcampFiles/sprintOne/targetaudience.pdf">See file</a></li>
+      <li><strong>Conversations:</strong> See file</li>
+    </ul>
+  </details>
+
+  </details>
