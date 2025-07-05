@@ -23,8 +23,8 @@
       <td>Büşra Cankit</td>
       <td>Scrum Master</td>
       <td>
-        <a href="" target="_blank"><img src="bootcampFiles/social/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="bootcampFiles/social/linkedin.png" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
