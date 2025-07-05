@@ -20,17 +20,16 @@
     </tr>
     <tr>
       <td><img src="bootcampFiles/general/squarepics/burak.png" width="50" height="50" /></td>
-      <td>Burak Taha Cevheroğlu</td>
+      <td>Büşra Cankit</td>
       <td>Scrum Master</td>
       <td>
-        <a href="https://github.com/burakcevheroglu" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/burakcevheroglu/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-        <a href="https://www.instagram.com/bburaktaha/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="bootcampFiles/social/github.png" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="bootcampFiles/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
       <td><img src="bootcampFiles/general/squarepics/arda.png" width="50" height="50" /></td>
-      <td>Arda Demirel</td>
+      <td>Furkan Caniş</td>
       <td>Product Owner</td>
       <td>
         <a href="https://github.com/demirelarda" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
