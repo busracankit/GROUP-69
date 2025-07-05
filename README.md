@@ -70,8 +70,8 @@
 
 
 
-
-  ## Product Description
+  <details>
+<summary><h2>Product Description</h2></summary>
 Empowering Every Mind to Learn with Confidence.
 
 Our product is a learning support platform specifically designed for individuals with dyslexia. It aims to make the learning journey easier, more accessible, and more enjoyable for students who face reading and writing challenges.
@@ -93,7 +93,7 @@ What does it offer?
     ✅ Exercises focused on building confidence, comprehension, and memory
 
 We believe that dyslexia is not a limitation, but a different way of thinking. Our mission is to give every learner the tools they need to thrive, regardless of how they read or write.
-
+  </details>
 
   <details>
     <summary><h2>Product Features</h2></summary>
