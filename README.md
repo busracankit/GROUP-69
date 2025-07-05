@@ -98,47 +98,35 @@ We believe that dyslexia is not a limitation, but a different way of thinking. O
   <details>
     <summary><h2>Product Features</h2></summary>
 
-  <h3>Item Rental:</h3>
-    <p>zaten allows users to rent out their belongings to others. Users can easily initiate the rental process, share item details, and rent out their items to others for a suitable fee.</p>
+ 1. 🎧 Text-to-Speech & Speech-to-Text Support
+Allows users to hear the content read aloud or speak instead of typing — ideal for overcoming reading and writing difficulties.
 
-  <h2>Vehicle Rental:</h2>
-    <p>zaten enables users to rent vehicles. Vehicle owners can rent out their unused vehicles to other users via the zaten platform, earning additional income. Renters can find and rent a suitable vehicle to meet their needs.</p>
+2. 🅰️ Dyslexia-Friendly Fonts and Layouts
+Customizable fonts (like OpenDyslexic), increased line spacing, and background filters reduce visual stress and make reading more comfortable.
 
-  <h2>Secure Payment System:</h2>
-    <p>zaten provides a secure payment system for users to make payments. Rental fees are processed through secure payment transactions conducted on the platform.</p>
+3. 🎮 Gamified Learning Modules
+Lessons are turned into interactive games that boost motivation, improve memory, and reinforce core reading/writing skills.
 
-  <h2>Rating and Review System:</h2>
-    <p>zaten allows users to rate and review each other. This feature enables users to assess the reliability and satisfaction levels of other users and make informed choices.</p>
+4. 📊 Personalized Learning Paths
+AI-driven adaptation tailors lessons to the user’s specific pace, strengths, and challenges — no one-size-fits-all approach.
 
-  <h2>Reservation Management:</h2>
-    <p>zaten offers users reservation management capabilities. Users can make reservations for items or vehicles for their desired date range and specify the duration of usage.</p>
+5. 🧩 Multi-Sensory Learning Tools
+Combines visuals, sound, touch, and movement to engage different parts of the brain and improve retention.
 
-  <h2>User-to-User Communication:</h2>
-    <p>zaten facilitates communication between users for discussing rental details. Users can directly communicate with item or vehicle owners, ask questions, negotiate prices, arrange delivery, and discuss other details. The chat feature provides a safer and more personalized communication experience, streamlining the rental process.</p>
+6. 📝 Real-Time Feedback and Progress Tracking
+Students, parents, and teachers can view real-time progress and receive personalized feedback to identify areas of growth.
 
-  <h2>User Support:</h2>
-    <p>zaten provides customer support services to users. Users can contact customer service when they have any issues or questions related to the platform and receive assistance.</p>
+7. 🗂️ Visual Organizers and Mind Mapping
+Helps users plan ideas, structure thoughts, and organize information in a non-linear, brain-friendly format.
 
-  <h2>Categorization and Search:</h2>
-    <p>zaten allows users to categorize and search for items or vehicles. Users can filter based on desired categories or specific features, making it easy to find the item or vehicle they are looking for.</p>
+8. 🔁 Repeat & Reinforce Functionality
+Enables users to repeat tricky lessons easily, and reinforces difficult concepts using alternative methods.
 
-  <h2>Favorites:</h2>
-    <p>The Favorites feature serves as a personal catalog, allowing you to save and organize items or vehicles that have caught your interest. This curated list helps in quick decision-making, allowing you to rent an item whenever you're ready.</p>
+9. 🌐 Multi-language Support
+Designed for international use, with localized features and voice options for different languages and accents.
 
-  <h2>Making an Offer:</h2>
-    <p>As a prospective renter, you can propose an offer on any product or vehicle you wish to rent. Simply go to the product page, click on 'Make an Offer,' and enter your desired price and date range. Once you submit your offer, it will be sent directly to the product owner for consideration.</p>
-
-  <h2>Receiving and Managing Offers:</h2>
-    <p>As a product owner, you can view all incoming offers on your personal 'Offers' page. Here, you'll see a list of all offers made on your items or vehicles, each with details including the proposed price, the desired rental period, and the prospective renter's information. You can review each offer and decide whether to accept, decline, or negotiate the terms. This feature gives you full control over your rental prices and schedules, allowing you to rent out your belongings or vehicles on your own terms.</p>
-
-  <h2>Our Sponsors' Customizable Profile:</h2>
-    <p>Our goal at zaten is to provide our sponsors with the opportunity to display their products on our platform, thereby encouraging users to rent or purchase them. Through our customizable Sponsor Profile pages that reflect our sponsors' unique brand identities, users can discover and safely rent or purchase the valuable products and services offered by our sponsors.</p>
-
-  <h2>Nearby Products:</h2>
-    <p>When using zaten, our location feature allows users to view products that are nearby. This ensures that potential optimal choices are surfaced based on their locality, offering a more convenient and efficient way for users to discover and rent items. The location feature streamlines the rental process, making it easier for users to find and rent the best products within their immediate vicinity.</p>
-
-  <h2>Multi-language Support:</h2>
-    <p>zaten also features multi-language support, ensuring that our platform is accessible and user-friendly to people from diverse linguistic backgrounds. This feature allows users to navigate the platform, browse items, and communicate with other users in their preferred language. By offering multi-language support, we aim to break down language barriers and foster a more inclusive and global community on zaten.</p>
+10. 🧑‍🏫 Teacher & Parent Dashboard
+Dedicated dashboard for guardians and educators to assign tasks, monitor performance, and offer encouragement.
 
   </details>
 
