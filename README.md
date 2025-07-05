@@ -132,7 +132,37 @@ Dedicated dashboard for guardians and educators to assign tasks, monitor perform
 
   <details>
     <summary><h2>Target Audience</h2></summary>
-    <p>zaten's target audience primarily consists of Millennials and Gen Z who value access over ownership and are open to sharing resources. These younger generations are interested in renting various items such as electronics, fashion accessories, sports equipment, and tools. Urban dwellers, especially those in smaller apartments or shared living spaces, who have limited storage, prefer renting items like camping gear, home appliances, and furniture. Travelers and tourists with specific needs during their trips, as well as event planners requiring temporary access to equipment, are also potential users of zaten's app. Additionally, sustainable consumers who care about the environment and reducing waste can be attracted by emphasizing the role of sharing resources in achieving sustainability goals.</p>
+    <p>
+     🎯 Target Audience
+
+1. 🧒 Children with Dyslexia (Ages 6–16)
+The core user group — young learners who face reading, writing, and comprehension challenges due to dyslexia.
+This platform offers them a safe, encouraging, and accessible space to build literacy skills at their own pace.
+
+2. 👨‍👩‍👧 Parents of Dyslexic Children
+Parents seeking supportive tools to assist their children outside of the traditional classroom.
+They benefit from real-time progress tracking and guidance on how to support learning at home.
+
+3. 👩‍🏫 Educators & Special Education Teachers
+Teachers working with neurodiverse students who need adaptive and inclusive educational technology.
+The platform helps them personalize lesson plans and track student development efficiently.
+
+4. 🧠 Educational Therapists & Psychologists
+Professionals involved in cognitive development and educational rehabilitation for dyslexic learners.
+The tool can be integrated into therapy sessions or used as a supplement to traditional interventions.
+
+5. 🎓 Educational Institutions & Schools
+Primary and secondary schools aiming to make classrooms more inclusive and technologically adaptive.
+The product supports IEP (Individualized Education Plan) goals and promotes accessibility in education.
+
+6. 🏥 Clinics & Learning Centers
+Private learning centers, clinics, and NGOs that specialize in learning difficulties.
+It can serve as a valuable resource to enhance their service offerings and improve outcomes for clients.
+
+7. 🌍 NGOs & Government Programs
+Organizations promoting accessible education, literacy, or neurodiversity inclusion.
+The platform aligns with social impact missions and scalable educational initiatives.
+    </p>
   </details>
 
   --- 
