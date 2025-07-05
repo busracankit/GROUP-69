@@ -72,7 +72,27 @@
 
 
   ## Product Description
-  zaten is a platform where users can securely rent their belongings or vehicles to one another. We are aware of the excessive and imbalanced production in the world and the resulting environmental damage. The long-term goals of zaten are to reduce energy consumption due to imbalanced production, decrease waste generated from overconsumption, and support a circular economy by encouraging the reuse of unused items. In doing so, we offer an economically beneficial solution to individuals amidst rising product prices, while also reducing pressure on biodiversity. Building a solid technological infrastructure and establishing a reliable legal foundation are among our core objectives.
+Empowering Every Mind to Learn with Confidence.
+
+Our product is a learning support platform specifically designed for individuals with dyslexia. It aims to make the learning journey easier, more accessible, and more enjoyable for students who face reading and writing challenges.
+
+Whether a child is struggling to read fluently or a teenager needs better tools to organize their thoughts, our app provides personalized educational experiences to help them succeed in the classroom and beyond.
+
+What does it offer?
+
+    ✅ Interactive lessons using visual, auditory, and kinesthetic techniques
+
+    ✅ Text-to-speech and speech-to-text support
+
+    ✅ Adaptive reading modes (font, spacing, color filters)
+
+    ✅ Gamified learning modules to keep motivation high
+
+    ✅ Progress tracking for parents and teachers
+
+    ✅ Exercises focused on building confidence, comprehension, and memory
+
+We believe that dyslexia is not a limitation, but a different way of thinking. Our mission is to give every learner the tools they need to thrive, regardless of how they read or write.
 
 
   <details>
