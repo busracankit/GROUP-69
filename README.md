@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><img src="bootcampFiles/general/squarepics/hazal.png" width="50" height="50" /></td>
-      <td>Dila Hazal Bilgin</td>
+      <td>Alina Arıcı</td>
       <td>Developer</td>
       <td>
         <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><img src="bootcampFiles/general/squarepics/merve.png" width="50" height="50" /></td>
-      <td>Merve Ağaçayak</td>
+      <td>Elif Bilge Göl</td>
       <td>Developer</td>
       <td>
         <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td><img src="bootcampFiles/general/squarepics/onur.png" width="50" height="50" /></td>
-      <td>Onur Konuk</td>
+      <td>Kemal Baz </td>
       <td>Developer</td>
       <td>
         <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
@@ -64,7 +64,6 @@
       </td>
     </tr>
     <tr>
-    <td><img src="bootcampFiles/general/squarepics/appicon.png" width="50" height="50" /></td>
   </tr>
   </table>
 
