@@ -1,9 +1,10 @@
  <html>
   <body>
 
-  <p align="center" style="height=200px;witdh=50%;">
-  <img src="Requirements/lets_image.jpg" alt="sprints">
-  </p>
+<p align="center">
+  <img src="Requirements/lets_image.jpg" alt="sprints" style="width: 50%; height: 200px;">
+</p>
+
 
 
   # **Team & Product Name**
