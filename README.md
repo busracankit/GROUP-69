@@ -3,10 +3,9 @@
 
   ![LetStep](Requirements/letstep.png)
 
-  ![team and product](bootcampFiles/general/headers/teamandproduct.png)
   # **Team & Product Name**
 
-  ### **`zaten`**
+  ### **`LetStep`**
 
   # Information About Team and Product
 
