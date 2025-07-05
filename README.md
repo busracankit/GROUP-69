@@ -32,12 +32,12 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/arda.png" width="50" height="50" /></td>
+      <td><img src="Requirements/photo_team/Furkan.png" width="50" height="50" /></td>
       <td>Furkan Caniş</td>
       <td>Product Owner</td>
       <td>
-        <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/furkancanis" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/furkancani%C5%9F/" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
