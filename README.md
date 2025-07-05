@@ -1,7 +1,7 @@
  <html>
   <body>
 
-  ![zaten](bootcampFiles/general/headers/zaten.png)
+  ![LetStep](requirements/letstep.png)
 
   ![team and product](bootcampFiles/general/headers/teamandproduct.png)
   # **Team & Product Name**
