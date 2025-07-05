@@ -167,7 +167,7 @@ The platform aligns with social impact missions and scalable educational initiat
 
   --- 
 
-  ![sprints](Requirements/General/sprint.png)
+  ![sprints](Requirements/general/sprint2.png)
 
   <details>
     <summary><h1>Sprint 1</h1></summary>
