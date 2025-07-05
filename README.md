@@ -1,7 +1,7 @@
  <html>
   <body>
 
-  <p align="center" style="height=500px;witdh=70%;">
+  <p align="center" style="height=200px;witdh=50%;">
   <img src="Requirements/lets_image.jpg" alt="sprints">
   </p>
 
