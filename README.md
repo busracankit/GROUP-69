@@ -2,7 +2,7 @@
   <body>
 
 <p align="center">
-  <img src="Requirements/lets_image.jpg" alt="sprints" style=" height: 600px;">
+  <img src="Requirements/lets_image.jpg" alt="sprints" style=" height: 500px;">
 </p>
 
 
