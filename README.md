@@ -1,7 +1,10 @@
  <html>
   <body>
 
-  ![LetStep](Requirements/lets_image.jpg)
+  <p align="center" style="height=500px;witdh=70%;">
+  <img src="Requirements/lets_image.jpg" alt="sprints">
+  </p>
+
 
   # **Team & Product Name**
 
