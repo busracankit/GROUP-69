@@ -19,7 +19,7 @@
       <th>Socials</th>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/burak.png" width="50" height="50" /></td>
+      <td><img src="Requirements/photo_team/busra.png" width="50" height="50" /></td>
       <td>Büşra Cankit</td>
       <td>Scrum Master</td>
       <td>
