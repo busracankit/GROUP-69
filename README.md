@@ -1,7 +1,7 @@
  <html>
   <body>
 
-  ![LetStep](Requirements/letstep.png)
+  ![LetStep](Requirements/lets_image.jpg)
 
   # **Team & Product Name**
 
