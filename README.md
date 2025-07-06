@@ -63,8 +63,8 @@
       <td>Kemal Baz </td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/Anonyuser-x" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
