@@ -204,12 +204,12 @@ The platform aligns with social impact missions and scalable educational initiat
 
   <details>
     <summary><h3>Sprint 1 - Sprint and Project Development Screenshots</h3></summary>
-    <img src="Requirements/Photo_codes/model_user.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/Photo_codes/functions_1.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/Photo_codes/functions_2.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/Photo_codes/auth.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/Photo_codes/index.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/Photo_codes/loginjs.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_Codes/model_user.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_Codes/functions_1.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_Codes/functions_2.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_Codes/auth.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_Codes/index.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_Codes/loginjs.png" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
