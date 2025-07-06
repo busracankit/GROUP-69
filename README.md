@@ -54,8 +54,8 @@
       <td>Elif Bilge Göl</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/BilgeAI" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/elif-bilge-g%C3%B6l-3293a421a/" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
