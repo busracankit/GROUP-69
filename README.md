@@ -203,13 +203,13 @@ The platform aligns with social impact missions and scalable educational initiat
 
 
   <details>
-    <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
-    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/14.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/15.png" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 1 - Sprint and Project Development Screenshots</h3></summary>
+    <img src="Requirements/Photo_codes/model_user.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_codes/functions_1.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_codes/functions_2.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_codes/auth.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_codes/index.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/Photo_codes/loginjs.png" style="max-width: 100%; height: auto;">
   </details>
 
   <details>
