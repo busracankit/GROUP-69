@@ -178,7 +178,7 @@ The platform aligns with social impact missions and scalable educational initiat
     <summary><h3>Sprint 1 - App Screenshots</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Authentication pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Authentication Pages</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/signin.png" style="max-width: 100%; height: auto;"></td>
@@ -186,7 +186,7 @@ The platform aligns with social impact missions and scalable educational initiat
       <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Homepage and Location pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Homepage and Location Pages</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/home1.png" style="max-width: 100%; height: auto;"></td>
@@ -194,7 +194,7 @@ The platform aligns with social impact missions and scalable educational initiat
       <td style="width: 25%;"><img src="Requirements/social/home3.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Add Product pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Dashboard Page Pages</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
