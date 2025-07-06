@@ -193,7 +193,7 @@ The platform aligns with social impact missions and scalable educational initiat
       <td style="width: 25%;"><img src="Requirements/social/home3.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Dashboard Page Pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Dashboard Page </h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
