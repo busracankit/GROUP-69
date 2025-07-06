@@ -250,61 +250,61 @@ The platform aligns with social impact missions and scalable educational initiat
 
 
   - **Sprint Notes**:
-    - It has been decided to use `Trello` for project management.
+ 
+* Tasarım HTML ve CSS kullanılarak geliştirildi.
+* Proje yönetimi aracı olarak  tercih edildi.
+* Günlük scrum toplantıları, ekip üyelerinin müsaitliğine göre Teams üzerinden yapıldı.
+* Giriş (login) sistemi için e-posta kullanılması kararlaştırıldı.
+* Uygulamanın ana temasının “dark” (koyu) olması kararlaştırıldı.
 
-    - It has been decided to use `Figma` for UI designs.
 
-    - It has been decided to use `Riverpod` for state management.
+Beklenen Puan Tamamlama ve Mantığı
+* Toplam hedef puan: 900
+* Sprint 1 hedefi: 150 puan (fikir planlama ve tasarım aşaması) — tamamlandı
+* Sprint 2 hedefi: 300 puan (kodlama ve API entegrasyonları odaklı)
+* Sprint 3 hedefi: 450 puan (kalan işler ve entegrasyon)
 
-    - The `MVVM` structure has been set up and it will be proceeded on this basis.
 
-    - It has been decided to use `Firebase` for the backend, and the `GetX` system for the page routing system.
+* Daily Scrum: Sprint 1 Daily Scrum
 
-    - It was decided to use `email login` for the login system.
 
-    - It was decided to perform `identity verification` following the login system.
+* Ürün Backlog URL’si: Notion
 
-    - It has been decided to use `Hive` as the local database.
-  - **Expected point completion within Sprint**: 200 points
-  - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
-  - **Daily Scrum**: See file
-  - **Product Backlog URL:** Click for Backlog (Trello)
-  - **Sprint Review:**
-    - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
+    
 
-    - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
+Sprint Review Özetleri
+* Prototip ve tasarımlar Kemal Baz ve Furkan Caniş tarafından hazırlanmıştır.
+* Uygulamanın farklı özelliklere sahip olması nedeniyle önceliklendirme aşamasında karar vermek zorlu olmuştur.
+* Alışkanlık oluşturma özelliği ön plana çıkarılmıştır.
+* Logo seçimi hızlı gerçekleşirken, marka adı belirleme süreci uzun sürmüştür.
+* İlk hafta pazar araştırması, kullanıcı görüşmeleri ve fikir taslağı oluşturulması ile geçmiştir.
+* İkinci hafta tasarımlar tamamlanmıştır.
+* Proje yönetim metodu belirlenmiş, ekip tanışmış ve sonraki sprintlerde kullanılacak sistem kurulmuştur.
+* Notion’da başlangıçta tarih kullanımı yoktu, günlük Teams toplantılarında ertesi günün işleri tartışılıyordu. Daha sonra burndown chart için tarihler eklenmiştir.
+* İlk sprint planlaması genel olarak tasarım ve fikir aşaması üzerine kurulmuş, verimli bir sprint geçmiştir.
 
-    - The two biggest problems we encountered in this sprint were difficulty in deciding on a color palette and not having completed the logo yet.
 
-    - We learned that the FloatingActionButton usage in the BottomNavigationBar and the notched feature of the navigation bar have been removed in Material 3, we overcame this issue by designing it ourselves.
 
-    - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
+Sprint Review Katılımcıları
+* Alina Arıcı
+* Büşra Cankit
+* Elif Bilge Göl
+* Furkan Caniş
+* Kemal Baz
 
-  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
-  - **Sprint Retrospective:**
-    - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
 
-    - In the second sprint, we decided to write our own API (for location information).
-
-    - We had to postpone the logo design to the second sprint. We will continue with the design.
-
-    - We will continue to develop the local database system (Hive).
-
-    - As Burak and Arda will continue more with software related tasks, much of the project management has been delegated to the remaining team members.
-
-    - In the second sprint, we will start writing a website for the zaten.app domain we bought for brand recognition. This task has been handed over to Onur.
-
-    - It was decided to establish a review system before the product goes live during the second sprint.
-
-    - For brand recognition and marketing purposes, it was decided to open an Instagram account during the second sprint.
-
-    - In addition to email authentication, it was decided to add the Google auth system in the second sprint.
-
-    - It was decided to add test AdMobs in the second sprint.
-
-    - We decided to start localization and the first languages will be English and Turkish.
-
-    - It was decided to add a user-to-user SDK with the Stream Chat SDK in the second sprint.
+Sprint Retrospektif Kararları
+* İkinci sprintte Firebase kurulumu yapılmasına karar verildi.
+* Uygulama logosu finalize edilecek.
+* Tüm ekip üyeleri ikinci sprintte birlikte kod yazacak.
+* Yapay zekâ eklentisi için ücretsiz API araştırması yapılacak.
+* Uygulamaya açık tema (light mode) eklenecek.
+* Günlük bölüm arayüzü düzenlenecek.
+* Kullanıcı profil oluşturma ve düzenleme sayfası geliştirilecek.
+* Günlük planlayıcı ve takvim entegre edilecek.
+* Alışkanlık oluşturma ve takip sayfası tamamlanacak.
+* Görev listesi ve hatırlatma özellikleri eklenecek.
+* Hedef takip ve analiz sayfası geliştirilecek.
 
 
   - **Other Notes**:
