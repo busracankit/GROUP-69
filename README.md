@@ -213,6 +213,11 @@ The platform aligns with social impact missions and scalable educational initiat
     <img src="Requirements/Photo_Codes/auth.png" width="200"/>
     <img src="Requirements/Photo_Codes/index.png" width="200"/>
     <img src="Requirements/Photo_Codes/loginjs.png" width="200"/>
+    <img src="Requirements/Photo_Codes/team_letstep.png" width="200"/>
+    <img src="Requirements/Photo_Codes/main.png" width="200"/>
+    <img src="Requirements/Photo_Codes/map.png" width="200"/>
+    <img src="Requirements/Photo_Codes/daily.png" width="200"/>
+
   </p>
 
 </details>
