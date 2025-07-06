@@ -2,7 +2,7 @@
   <body>
 
 <p align="center">
-  <img src="Requirements/lets_image.jpg" alt="sprints" style=" height: 500px;">
+  <img src="Requirements/general/lets_image.jpg" alt="sprints" style=" height: 500px;">
 </p>
 
 
@@ -173,7 +173,7 @@ The platform aligns with social impact missions and scalable educational initiat
   --- 
 
 <p align="center">
-  <img src="Requirements/general/sprint2.png" alt="sprints">
+  <img src="Requirements/general/lets_sprint.jpg" alt="sprints">
 </p>
 
   <details>
