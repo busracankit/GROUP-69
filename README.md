@@ -251,55 +251,55 @@ The platform aligns with social impact missions and scalable educational initiat
 
   - **Sprint Notes**:
  
-Sprint 1 - Burndown Chart
-Sprint Notes:
-
-The design was developed using HTML and CSS.
-A project management tool was chosen.
-Daily scrum meetings were held via Teams according to team members' availability.
-It was decided to use email for the login system.
-The main theme of the application was decided to be “dark” mode.
+Sprint 1 - Burndown Chart Sprint Notes:
+* The design was developed using HTML and CSS.
+* A project management tool was chosen.
+* Daily scrum meetings were held via Teams according to team members' availability.
+* It was decided to use email for the login system.
+* The main theme of the application was decided to be “dark” mode.
+  
 Expected Point Completion and Logic
+* Total target points: 900
+* Sprint 1 goal: 150 points (idea planning and design phase) — completed
+* Sprint 2 goal: 300 points (focused on coding and API integrations)
+* Sprint 3 goal: 450 points (remaining tasks and integrations)
 
-Total target points: 900
-Sprint 1 goal: 150 points (idea planning and design phase) — completed
-Sprint 2 goal: 300 points (focused on coding and API integrations)
-Sprint 3 goal: 450 points (remaining tasks and integrations)
+
 Daily Scrum: Sprint 1 Daily Scrum
 
 Product Backlog URL: Notion
 
 Sprint Review Summaries:
-
-Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
-Due to the app having different features, prioritization was challenging.
-The habit-forming feature was highlighted.
-Logo selection was quick, while choosing the brand name took longer.
-The first week was spent on market research, user interviews, and creating a draft idea.
-Designs were completed in the second week.
-The project management method was determined, the team was introduced, and the system to be used in upcoming sprints was established.
-Initially, there were no dates used in Notion; the next day’s tasks were discussed in daily Teams meetings. Later, dates were added for the burndown chart.
-The first sprint planning was generally based on design and ideation and was productive.
+* Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
+* Due to the app having different features, prioritization was challenging.
+* The habit-forming feature was highlighted.
+* Logo selection was quick, while choosing the brand name took longer.
+* The first week was spent on market research, user interviews, and creating a draft idea.
+* Designs were completed in the second week.
+* The project management method was determined, the team was introduced, and the system to be used in upcoming sprints was established.
+* Initially, there were no dates used in Notion; the next day’s tasks were discussed in daily Teams meetings. Later, dates were added for the burndown chart.
+* The first sprint planning was generally based on design and ideation and was productive.
+  
 Sprint Review Participants:
-
-Alina Arıcı
-Büşra Cankit
-Elif Bilge Göl
-Furkan Caniş
-Kemal Baz
+* Alina Arıcı
+* Büşra Cankit
+* Elif Bilge Göl
+* Furkan Caniş
+* Kemal Baz
+  
 Sprint Retrospective Decisions:
+* Firebase setup will be done in the second sprint.
+* The app logo will be finalized.
+* All team members will write code together in the second sprint.
+* Free API research will be done for AI integration.
+* A light mode theme will be added to the app.
+* The daily section UI will be improved.
+* User profile creation and editing page will be developed.
+* Daily planner and calendar will be integrated.
+* Habit formation and tracking page will be completed.
+* Task list and reminder features will be added.
+* Goal tracking and analysis page will be developed.
 
-Firebase setup will be done in the second sprint.
-The app logo will be finalized.
-All team members will write code together in the second sprint.
-Free API research will be done for AI integration.
-A light mode theme will be added to the app.
-The daily section UI will be improved.
-User profile creation and editing page will be developed.
-Daily planner and calendar will be integrated.
-Habit formation and tracking page will be completed.
-Task list and reminder features will be added.
-Goal tracking and analysis page will be developed.
 
 
   - **Other Notes**:
