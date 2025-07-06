@@ -252,13 +252,14 @@ The platform aligns with social impact missions and scalable educational initiat
   - **Sprint Notes**:
  
 Sprint 1 - Burndown Chart Sprint Notes:
+
 * The design was developed using HTML and CSS.
 * A project management tool was chosen.
 * Daily scrum meetings were held via Teams according to team members' availability.
 * It was decided to use email for the login system.
-* The main theme of the application was decided to be “dark” mode.
+
   
-Expected Point Completion and Logic
+Expected Point Completion and Logic:
 * Total target points: 900
 * Sprint 1 goal: 150 points (idea planning and design phase) — completed
 * Sprint 2 goal: 300 points (focused on coding and API integrations)
