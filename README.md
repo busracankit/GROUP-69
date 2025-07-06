@@ -27,8 +27,8 @@
       <td>Büşra Cankit</td>
       <td>Scrum Master</td>
       <td>
-        <a href="https://github.com/busracankit" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/busracankit/" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/busracankit" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/busracankit/" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
