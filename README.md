@@ -41,7 +41,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/alina.png" width="50" height="50" /></td>
+      <td><img src="Requirements/photo_team/alina.png"" width="50" height="50" /></td>
       <td>Alina Arıcı</td>
       <td>Developer</td>
       <td>
