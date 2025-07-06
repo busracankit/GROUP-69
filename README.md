@@ -50,7 +50,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/merve.png" width="50" height="50" /></td>
+      <td><img src="Requirements/photo_team/elif.png" width="50" height="50" /></td>
       <td>Elif Bilge Göl</td>
       <td>Developer</td>
       <td>
