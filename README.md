@@ -76,12 +76,13 @@
 
   <details>
 <summary><h2>Product Description</h2></summary>
-Empowering Every Mind to Learn with Confidence.
+LetStep is an AI-powered, web-based educational platform designed to support individuals diagnosed with dyslexia in developing their reading, comprehension, and learning skills. It makes learning more accessible and sustainable through personalized exercises tailored to each individual's cognitive profile.
 
-Our product is a learning support platform specifically designed for individuals with dyslexia. It aims to make the learning journey easier, more accessible, and more enjoyable for students who face reading and writing challenges.
+The platform analyzes users' needs based on their age, learning level, and pace, evaluating data such as reading habits and attention patterns to deliver customized content. With the support of artificial intelligence and data science, the difficulty level of the exercises is dynamically adjusted.
 
-Whether a child is struggling to read fluently or a teenager needs better tools to organize their thoughts, our app provides personalized educational experiences to help them succeed in the classroom and beyond.
+LetStep's clean and focus-friendly interface helps users with dyslexia stay engaged with the content. The built-in text-to-speech and feedback systems support auditory learning, transforming the platform into a digital learning coach.
 
+Additionally, a dedicated monitoring panel enables parents and education specialists to track progress in real time and provide timely guidance and intervention when needed.
 What does it offer?
 
     ✅ Interactive lessons using visual, auditory, and kinesthetic techniques
