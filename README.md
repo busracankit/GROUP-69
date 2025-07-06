@@ -238,7 +238,7 @@ Expected Point Completion and Logic:
 
 Daily Scrum: Sprint 1 Daily Scrum
 
-Product Backlog URL: Notion
+Product Backlog URL: https://www.notion.so/LetStep-Geli-tirme-ve-Canavar-Ekibi-226a02e6b5d4806ab220e2b9d1083cb0
 
 Sprint Review Summaries:
 * Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
