@@ -127,12 +127,6 @@ Helps users plan ideas, structure thoughts, and organize information in a non-li
 8. 🔁 Repeat & Reinforce Functionality
 Enables users to repeat tricky lessons easily, and reinforces difficult concepts using alternative methods.
 
-9. 🌐 Multi-language Support
-Designed for international use, with localized features and voice options for different languages and accents.
-
-10. 🧑‍🏫 Teacher & Parent Dashboard
-Dedicated dashboard for guardians and educators to assign tasks, monitor performance, and offer encouragement.
-
   </details>
 
   <details>
