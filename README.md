@@ -36,8 +36,8 @@
       <td>Furkan Caniş</td>
       <td>Product Owner</td>
       <td>
-        <a href="https://github.com/furkancanis" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/furkancani%C5%9F/" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
+        <a href="https://github.com/furkancanis" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/furkancani%C5%9F/" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -45,8 +45,8 @@
       <td>Alina Arıcı</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -54,8 +54,8 @@
       <td>Elif Bilge Göl</td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -63,8 +63,8 @@
       <td>Kemal Baz </td>
       <td>Developer</td>
       <td>
-        <a href="" target="_blank"><img src="Requirements/github.png" width="20" height="20"/></a>
-        <a href="" target="_blank" ><img src="Requirements/linkedin.png" width="20" height="20" /></a>
+        <a href="" target="_blank"><img src="Requirements/social/github.png" width="20" height="20"/></a>
+        <a href="" target="_blank" ><img src="Requirements/social/linkedin.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
