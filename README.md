@@ -183,7 +183,6 @@ The platform aligns with social impact missions and scalable educational initiat
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/signin.png" style="max-width: 100%; height: auto;"></td>
       <td style="width: 25%;"><img src="Requirements/social/signup.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Homepage and Location Pages</h2></td>
