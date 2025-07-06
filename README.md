@@ -202,62 +202,19 @@ The platform aligns with social impact missions and scalable educational initiat
   </details>   
 
 
-<style>
-  .image-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 15px;
-  }
-
-  .image-card {
-    flex: 1 1 calc(30% - 20px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.3s, box-shadow 0.3s;
-  }
-
-  .image-card img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  .image-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-  }
-
-  @media (max-width: 768px) {
-    .image-card {
-      flex: 1 1 100%;
-    }
-  }
-</style>
 
 <details>
   <summary><h3>Sprint 1 - Sprint and Project Development Screenshots</h3></summary>
-  <div class="image-gallery">
-    <div class="image-card">
-      <img src="Requirements/Photo_Codes/model_user.png" alt="Model User">
-    </div>
-    <div class="image-card">
-      <img src="Requirements/Photo_Codes/functions_1.png" alt="Functions 1">
-    </div>
-    <div class="image-card">
-      <img src="Requirements/Photo_Codes/functions_2.png" alt="Functions 2">
-    </div>
-    <div class="image-card">
-      <img src="Requirements/Photo_Codes/auth.png" alt="Auth">
-    </div>
-    <div class="image-card">
-      <img src="Requirements/Photo_Codes/index.png" alt="Index">
-    </div>
-    <div class="image-card">
-      <img src="Requirements/Photo_Codes/loginjs.png" alt="Login JS">
-    </div>
-  </div>
+
+  <p align="center">
+    <img src="Requirements/Photo_Codes/model_user.png" width="200"/>
+    <img src="Requirements/Photo_Codes/functions_1.png" width="200"/>
+    <img src="Requirements/Photo_Codes/functions_2.png" width="200"/>
+    <img src="Requirements/Photo_Codes/auth.png" width="200"/>
+    <img src="Requirements/Photo_Codes/index.png" width="200"/>
+    <img src="Requirements/Photo_Codes/loginjs.png" width="200"/>
+  </p>
+
 </details>
 
   <details>
