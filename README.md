@@ -245,7 +245,7 @@ The platform aligns with social impact missions and scalable educational initiat
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
     <img src="bootcampFiles/sprintOne/burndown/burndown_charts.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/burndown/burndown_charts.png" style="max-width: 100%; height: auto;">
+    <img src="Requirments/social/burndown_charts.png" style="max-width: 100%; height: auto;">
   </details>
 
 
