@@ -249,7 +249,7 @@ Expected Point Completion and Logic:
 * Sprint 3 goal: 450 points (remaining tasks and integrations)
 
 
-Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
+Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
 
 Sprint Review Summaries:
 * Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
