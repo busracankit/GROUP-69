@@ -246,7 +246,8 @@ Expected Point Completion and Logic:
 * Sprint 3 goal: 450 points (remaining tasks and integrations)
 
 
-Daily Scrum: Sprint 1 Daily Scrum
+Daily Scrum:  [Görseli Görüntüle](Requirements/Sprint%201%20Daily%20Scrum/photo1.jpg)
+
 
 Product Backlog URL: https://www.notion.so/LetStep-Geli-tirme-ve-Canavar-Ekibi-226a02e6b5d4806ab220e2b9d1083cb0
 
