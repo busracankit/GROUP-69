@@ -221,7 +221,10 @@ The platform aligns with social impact missions and scalable educational initiat
   </p>
 
 </details>
-
+  <details>
+    <summary><h3>Sprint 1 - Board</h3></summary>
+    <img src="Requirements/general/sprint_1_board.png" style="max-width: 100%; height: auto;">
+  </details>
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
     <img src="Requirements/social/burndown_charts5.png" style="max-width: 100%; height: auto;">
