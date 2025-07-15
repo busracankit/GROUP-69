@@ -1,15 +1,15 @@
-# 📦 Gerekli kütüphaneler
+# Gerekli kütüphaneler
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-# 📁 1. Verileri oku
+# 1. Verileri oku
 color_df = pd.read_csv("color_deficiency.csv")
 direction_df = pd.read_csv("direction_deficiency.csv")
 letter_df = pd.read_csv("letter_deficiency.csv")
 word_df = pd.read_csv("word_deficiency.csv")
 
-# 🔢 2. Ortalama başarıları hesapla
+#  2. Ortalama başarıları hesapla
 def get_avg(df, col_name):
     avg = df.groupby("user_id")["success_rate"].mean().reset_index()
     avg.columns = ["user_id", col_name]
@@ -20,12 +20,12 @@ avg_direction = get_avg(direction_df, "avg_direction_score")
 avg_letter = get_avg(letter_df, "avg_letter_score")
 avg_word = get_avg(word_df, "avg_word_score")
 
-# 🔗 3. Hepsini birleştir
+#  3. Hepsini birleştir
 df = avg_color.merge(avg_direction, on="user_id") \
               .merge(avg_letter, on="user_id") \
               .merge(avg_word, on="user_id")
 
-# 🚨 4. Zayıf alanları belirle
+#  4. Zayıf alanları belirle
 def detect_weak_areas(row, threshold=60):
     weak = []
     if row["avg_color_score"] < threshold:
@@ -40,7 +40,7 @@ def detect_weak_areas(row, threshold=60):
 
 df["weak_areas"] = df.apply(detect_weak_areas, axis=1)
 
-# 🎯 5. Egzersiz öneri motoru
+# 5. Egzersiz öneri motoru
 exercise_suggestions = {
     "color": ["Renkli kelime bulmaca", "Renk sıralama oyunu"],
     "direction": ["Yön eşleme", "Ok yönü takip oyunu"],
@@ -53,19 +53,19 @@ def suggest_exercises(weak_areas):
 
 df["exercise_recommendations"] = df["weak_areas"].apply(suggest_exercises)
 
-# 💾 6. Sonuçları dışa aktar (opsiyonel)
+# 6. Sonuçları dışa aktar (opsiyonel)
 df.to_csv("user_profiles_with_recommendations.csv", index=False)
 
-# 🖥️ 7. Streamlit arayüzü
+# 7. Streamlit arayüzü
 st.set_page_config(page_title="LetStep Öğrenme Profili", layout="centered")
 st.title("LetStep Bireysel Öğrenme Profili")
 st.write("Kullanıcıların temel beceri alanlarındaki başarı oranlarını ve önerilen egzersizleri inceleyin.")
 
-# 👤 Kullanıcı seçimi
+#  Kullanıcı seçimi
 user_id = st.selectbox("Kullanıcı Seçin", df["user_id"].unique())
 user = df[df["user_id"] == user_id].iloc[0]
 
-# 📊 Bar Grafik: Başarı Skorları
+#  Bar Grafik: Başarı Skorları
 scores = {
     "Renk": user["avg_color_score"],
     "Yön": user["avg_direction_score"],
@@ -83,7 +83,7 @@ ax.set_title(f"Kullanıcı {user_id} Skorları")
 ax.legend()
 st.pyplot(fig)
 
-# 🔍 Zayıf Alanlar + Açıklamalar
+#  Zayıf Alanlar + Açıklamalar
 st.subheader("Öğrenme Güçlüğü Gözlemleri")
 alan_bilgisi = {
     "color": "Renk ayrımı, kelime tanımada dikkat becerileriyle ilişkilidir.",
