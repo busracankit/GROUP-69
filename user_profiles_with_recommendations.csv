@@ -1,0 +1,101 @@
+user_id,avg_color_score,avg_direction_score,avg_letter_score,avg_word_score,weak_areas,exercise_recommendations
+1,43.28,42.98,43.28,43.28,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+2,46.93181818181818,47.54545454545455,46.93181818181818,46.93181818181818,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+3,80.11304347826086,80.384,80.11304347826086,80.11304347826086,[],[]
+4,75.05454545454546,62.262499999999996,75.05454545454546,75.05454545454546,[],[]
+5,50.888000000000005,43.077777777777776,50.888000000000005,50.888000000000005,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+6,50.917391304347824,82.212,50.917391304347824,50.917391304347824,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+7,63.52608695652174,41.32727272727273,63.52608695652174,63.52608695652174,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+8,55.74545454545455,70.66363636363636,55.74545454545455,55.74545454545455,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+9,47.07692307692308,63.42307692307692,47.07692307692308,47.07692307692308,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+10,56.82142857142857,68.63703703703703,56.82142857142857,56.82142857142857,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+11,78.6086956521739,60.395833333333336,78.6086956521739,78.6086956521739,[],[]
+12,44.06,74.25714285714287,44.06,44.06,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+13,82.79230769230769,80.33636363636364,82.79230769230769,82.79230769230769,[],[]
+14,73.74347826086957,82.73333333333333,73.74347826086957,73.74347826086957,[],[]
+15,42.43043478260869,47.06153846153846,42.43043478260869,42.43043478260869,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+16,69.06666666666668,77.1923076923077,69.06666666666668,69.06666666666668,[],[]
+17,45.548148148148144,41.77391304347826,45.548148148148144,45.548148148148144,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+18,62.487500000000004,71.3076923076923,62.487500000000004,62.487500000000004,[],[]
+19,63.88148148148148,55.65416666666667,63.88148148148148,63.88148148148148,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+20,77.01739130434783,64.09166666666667,77.01739130434783,77.01739130434783,[],[]
+21,49.09583333333333,48.839130434782604,49.09583333333333,49.09583333333333,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+22,70.4962962962963,57.059090909090905,70.4962962962963,70.4962962962963,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+23,76.45217391304348,82.50454545454545,76.45217391304348,76.45217391304348,[],[]
+24,70.8,71.4875,70.8,70.8,[],[]
+25,57.07826086956521,55.98695652173913,57.07826086956521,57.07826086956521,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+26,60.15,78.45769230769231,60.15,60.15,[],[]
+27,76.84166666666667,82.04761904761905,76.84166666666667,76.84166666666667,[],[]
+28,56.58695652173913,52.98695652173913,56.58695652173913,56.58695652173913,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+29,52.25555555555556,41.416000000000004,52.25555555555556,52.25555555555556,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+30,49.387499999999996,67.4608695652174,49.387499999999996,49.387499999999996,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+31,55.948,51.1875,55.948,55.948,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+32,60.28333333333333,75.36923076923077,60.28333333333333,60.28333333333333,[],[]
+33,79.564,44.55217391304348,79.564,79.564,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+34,80.89583333333333,83.83749999999999,80.89583333333333,80.89583333333333,[],[]
+35,60.060869565217395,53.95238095238095,60.060869565217395,60.060869565217395,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+36,50.372,68.98,50.372,50.372,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+37,45.59166666666667,49.48636363636364,45.59166666666667,45.59166666666667,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+38,72.43809523809524,76.08846153846153,72.43809523809524,72.43809523809524,[],[]
+39,51.27826086956522,71.64642857142857,51.27826086956522,51.27826086956522,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+40,83.19545454545454,54.775,83.19545454545454,83.19545454545454,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+41,70.95,71.54761904761905,70.95,70.95,[],[]
+42,83.85000000000001,63.36363636363637,83.85000000000001,83.85000000000001,[],[]
+43,67.58461538461539,81.93703703703704,67.58461538461539,67.58461538461539,[],[]
+44,65.75357142857142,66.29166666666667,65.75357142857142,65.75357142857142,[],[]
+45,60.9125,66.45217391304348,60.9125,60.9125,[],[]
+46,84.265,73.685,84.265,84.265,[],[]
+47,79.28,80.97500000000001,79.28,79.28,[],[]
+48,51.17272727272727,51.70454545454545,51.17272727272727,51.17272727272727,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+49,80.40434782608695,80.17916666666666,80.40434782608695,80.40434782608695,[],[]
+50,81.79545454545455,80.765,81.79545454545455,81.79545454545455,[],[]
+51,77.69565217391305,42.20869565217391,77.69565217391305,77.69565217391305,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+52,79.6375,80.1125,79.6375,79.6375,[],[]
+53,56.80869565217391,57.284210526315796,56.80869565217391,56.80869565217391,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+54,74.45,74.92692307692307,74.45,74.45,[],[]
+55,62.00869565217391,54.30476190476191,62.00869565217391,62.00869565217391,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+56,82.80909090909091,44.80416666666667,82.80909090909091,82.80909090909091,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+57,73.61666666666666,83.28750000000001,73.61666666666666,73.61666666666666,[],[]
+58,67.60000000000001,64.2,67.60000000000001,67.60000000000001,[],[]
+59,45.232,51.925000000000004,45.232,45.232,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+60,77.925,55.32631578947369,77.925,77.925,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+61,64.37272727272727,46.82727272727273,64.37272727272727,64.37272727272727,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+62,62.138461538461534,68.99130434782609,62.138461538461534,62.138461538461534,[],[]
+63,40.65652173913043,57.87083333333334,40.65652173913043,40.65652173913043,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+64,50.862500000000004,54.02272727272727,50.862500000000004,50.862500000000004,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+65,45.02173913043478,80.35652173913044,45.02173913043478,45.02173913043478,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+66,75.676,41.34761904761905,75.676,75.676,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+67,75.20357142857142,56.532,75.20357142857142,75.20357142857142,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+68,80.66,68.564,80.66,80.66,[],[]
+69,66.15384615384616,60.64166666666667,66.15384615384616,66.15384615384616,[],[]
+70,61.2304347826087,44.50869565217391,61.2304347826087,61.2304347826087,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+71,72.236,77.64782608695653,72.236,72.236,[],[]
+72,79.07857142857142,50.24285714285714,79.07857142857142,79.07857142857142,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+73,70.444,73.34347826086957,70.444,70.444,[],[]
+74,71.76818181818182,58.73333333333333,71.76818181818182,71.76818181818182,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+75,51.74583333333334,42.63478260869565,51.74583333333334,51.74583333333334,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+76,63.28260869565217,70.30416666666666,63.28260869565217,63.28260869565217,[],[]
+77,56.663999999999994,85.65384615384616,56.663999999999994,56.663999999999994,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+78,49.76521739130435,56.87083333333334,49.76521739130435,49.76521739130435,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+79,53.99047619047619,62.07142857142857,53.99047619047619,53.99047619047619,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+80,63.49642857142857,62.49583333333334,63.49642857142857,63.49642857142857,[],[]
+81,81.86666666666667,51.93333333333334,81.86666666666667,81.86666666666667,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+82,65.55652173913043,71.82608695652173,65.55652173913043,65.55652173913043,[],[]
+83,46.81481481481482,41.949999999999996,46.81481481481482,46.81481481481482,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+84,46.88095238095238,51.45416666666667,46.88095238095238,46.88095238095238,"['color', 'direction', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Yön eşleme', 'Ok yönü takip oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+85,74.86399999999999,60.395833333333336,74.86399999999999,74.86399999999999,[],[]
+86,64.43333333333334,51.78,64.43333333333334,64.43333333333334,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+87,47.12173913043478,63.632,47.12173913043478,47.12173913043478,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+88,67.57307692307693,64.5304347826087,67.57307692307693,67.57307692307693,[],[]
+89,80.584,50.16923076923077,80.584,80.584,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+90,80.64782608695653,53.573913043478264,80.64782608695653,80.64782608695653,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+91,79.19583333333334,51.38636363636363,79.19583333333334,79.19583333333334,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+92,75.77692307692308,77.7,75.77692307692308,75.77692307692308,[],[]
+93,66.77272727272727,47.824,66.77272727272727,66.77272727272727,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+94,78.86666666666667,69.58500000000001,78.86666666666667,78.86666666666667,[],[]
+95,54.2962962962963,60.254999999999995,54.2962962962963,54.2962962962963,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+96,55.755172413793105,62.88333333333333,55.755172413793105,55.755172413793105,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+97,73.42068965517241,56.232,73.42068965517241,73.42068965517241,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+98,62.98461538461538,50.87083333333334,62.98461538461538,62.98461538461538,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
+99,55.5375,83.26521739130435,55.5375,55.5375,"['color', 'letter', 'word']","['Renkli kelime bulmaca', 'Renk sıralama oyunu', 'Harf ayırt etme', 'Sesli-harf eşleme', 'Kelime tamamlama', 'Eş sesli ayırt etme']"
+100,78.45416666666667,55.04,78.45416666666667,78.45416666666667,['direction'],"['Yön eşleme', 'Ok yönü takip oyunu']"
