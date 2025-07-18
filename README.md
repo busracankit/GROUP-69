@@ -228,6 +228,12 @@ The platform aligns with social impact missions and scalable educational initiat
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
     <img src="Requirements/social/burndown_charts5.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/social/burndown_chart2.png" style="max-width: 100%; height: auto;">
+  </details>
+
+  <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="Requirements/social/burndown2.png" style="max-width: 100%; height: auto;">
     <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
   </details>
 
@@ -460,3 +466,4 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
 
    </details>
+   
