@@ -461,7 +461,7 @@ Daily Scrum: [Sprint 2 Daily Scrum]()
   </details>
 
    <details>
-    <summary><h1>architecture diagram</h1></summary>
+    <summary><h1>Architecture</h1></summary>
     <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
 
    </details>
