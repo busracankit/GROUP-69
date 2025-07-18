@@ -369,12 +369,12 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 </details>
   <details>
     <summary><h3>Sprint 2 - Board</h3></summary>
-    <img src="Requirements/general/sprint_1_board.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/general/sprint_2_board.png" style="max-width: 100%; height: auto;">
   </details>
   <details>
     <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
-    <img src="Requirements/social/burndown_charts5.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/social/" style="max-width: 100%; height: auto;">
+    <img src="Requirements/social/" style="max-width: 100%; height: auto;">
   </details>
 
 
@@ -398,7 +398,7 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
     Sprint 3 goal: 450 points (remaining tasks and integrations) - 🔜
 
-Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
+Daily Scrum: [Sprint 2 Daily Scrum]()
 
 🧾 Sprint 2 Review Summaries
 
