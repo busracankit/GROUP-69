@@ -402,24 +402,26 @@ Daily Scrum: [Sprint 2 Daily Scrum]()
 
 🧾 Sprint 2 Review Summaries
 
-    1 - Gelişim modeli mimarisi, kullanıcıya özel oyunlaştırılmış grafik tasarımı, kişiselleştirme sistemleri ve yapay zekâ destekli
-    asistan gibi temel özelliklerin prototipleri ve yazılımsal altyapıları Kemal Baz, Furkan Caniş ve Büşra Cankit tarafından hazırlandı.
+    1 - The prototypes and software infrastructures of core features such as the development model architecture, gamified user-specific
+    graphic design, personalization systems, and AI-powered assistant were developed by Kemal Baz, Furkan Caniş, and Büşra Cankit.
 
-    2 - Uygulamanın teknik olarak geniş kapsamlı olması, bu sprintte kodlama önceliklendirmesinde zorluklara neden oldu.
+    2 -The application's broad technical scope caused prioritization challenges in coding during this sprint.
 
-    3 - Kullanıcı gelişim takip sistemi ve kişiselleştirme modülü öne çıkan odak noktaları oldu.
+    3 - The user progress tracking system and personalization module became key focus areas.
 
-    4 - Backend ve frontend arasında bağlantı kurmak için yapılan API entegrasyonları, sprint boyunca ekip koordinasyonunun odak noktasıydı.
+    4 - API integrations to connect backend and frontend were the main point of team coordination throughout the sprint.
 
-    5 - Dashboard tasarımı, veli paneli ve öğrenci gelişim paneli sprint boyunca işlevsel hale getirildi.
+    5 - The dashboard design, parent panel, and student progress panel were made functional during the sprint.
 
-    6 - Backend hata ayıklama ve sistem stabilizasyonu, Furkan ve Kemal tarafından sprint sonuna doğru başarıyla tamamlandı.
+    6 - Backend debugging and system stabilization were successfully completed towards the end of the sprint by Furkan and Kemal.
 
-    7 - Günlük Scrum toplantıları her gün Microsoft Teams üzerinden devam etti.
+    7 - Daily Scrum meetings were held every day via Microsoft Teams.
 
-    8 - Sprint başında görevler tarihsiz şekilde planlanıyordu ancak ilerleyen günlerde burndown chart için Notion’a tarih eklentileri yapıldı.
+    8 - At the beginning of the sprint, tasks were planned without specific dates, but date fields were later added to Notion for burndown chart tracking.
 
-    9 - Sprint 2, genel olarak uygulamanın teknik iskeletinin oturtulması ve tüm modüllerin kodsal altyapısının kurulması açısından verimli geçti.
+    9 - Sprint 2 was productive in terms of establishing the technical backbone of the application and setting up the codebase for all modules.
+
+
 
 👥 Sprint 2 Review Participants
 
@@ -435,25 +437,25 @@ Daily Scrum: [Sprint 2 Daily Scrum]()
 
 🔄 Sprint 2 Retrospective Decisions
 
-    1 - Gelişim modeli mimarisine son rötuşlar eklenecek.
-
-    2 - Büşra, Elif, Alina tarafından sprint 3 içerisinde admin paneli rapoları için veri çalışmaları gerçekleştirilecek
-
-    3 - Furkan ve Kemal tarafından sprint 3 içerisinde admin paneli backend ve frontend tasarımları yapılandırması yapılacak.
-
-    4 - Kişiselleştirme modelinin sonuçları daha etkili analiz edilecek.
-
-    5 - Gelişim takip grafiğinin görsel sunumu güncellenecek.
-
-    6 - Kullanıcı gelişim dashboard’una yeni filtreleme ve sıralama özellikleri eklenecek.
-
-    7 - Öğrenci ve veli paneli arayüzleri sadeleştirilecek.
-
-    8 - Backend ve frontend arası veri senkronizasyonu geliştirilecek.
-
-    9 - Yapay zekâ asistanı için sesli yanıt prototip çalışması başlatılacak.
-
-    10 - Günlük takvim, hedef takibi ve alışkanlık modülü entegre şekilde çalışacak.
+    1 - Final touches will be added to the development model architecture.
+    
+    2 - Data preparation for admin panel reports will be carried out by Büşra, Elif, and Alina during Sprint 3.
+    
+    3 - Backend and frontend structuring of the admin panel will be handled by Furkan and Kemal in Sprint 3.
+    
+    4 - The results of the personalization model will be analyzed more effectively.
+    
+    5 - The visual representation of the progress tracking graph will be updated.
+    
+    6 - New filtering and sorting features will be added to the user progress dashboard.
+    
+    7 - The user interfaces of both student and parent panels will be simplified.
+    
+    8 - Data synchronization between backend and frontend will be improved.
+    
+    9 - A prototype for the AI assistant’s voice response feature will be initiated.
+    
+    10 - The daily calendar, goal tracking, and habit modules will be integrated and work together seamlessly.
 
 
   </details>
