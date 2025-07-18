@@ -327,14 +327,14 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
       <td colspan="4" style="text-align: center;"><h2>Reading Exercise Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/photo_codes_2/okuma_asistanı.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/okuma_asistanı.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Exercise Main Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/social/egzersiz.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/social/egzersiz_2.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/egzersiz.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/egzersiz_2.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Detail Exercise Pages</h2></td>
