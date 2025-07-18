@@ -231,11 +231,7 @@ The platform aligns with social impact missions and scalable educational initiat
     <img src="Requirements/social/burndown_chart2.png" style="max-width: 100%; height: auto;">
   </details>
 
-  <details>
-    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
-    <img src="Requirements/social/burndown2.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
-  </details>
+ 
 
   - **Sprint Notes**:
    
@@ -382,6 +378,12 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   - **Sprint Notes**:
    
 ✏️ Burndown Chart Sprint Notes
+
+ <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="Requirements/social/burndown2.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
+  </details>
 
     The design was developed using HTML and CSS. 
 
