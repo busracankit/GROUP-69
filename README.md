@@ -353,16 +353,13 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   <summary><h3>Sprint 2 - Sprint and Project Development Screenshots</h3></summary>
 
   <p align="center">
-    <img src="Requirements/Photo_Codes/model_user.png" width="200"/>
-    <img src="Requirements/Photo_Codes/functions_1.png" width="200"/>
-    <img src="Requirements/Photo_Codes/functions_2.png" width="200"/>
-    <img src="Requirements/Photo_Codes/auth.png" width="200"/>
-    <img src="Requirements/Photo_Codes/index.png" width="200"/>
-    <img src="Requirements/Photo_Codes/loginjs.png" width="200"/>
-    <img src="Requirements/Photo_Codes/team_letstep.png" width="200"/>
-    <img src="Requirements/Photo_Codes/main.png" width="200"/>
-    <img src="Requirements/Photo_Codes/map.png" width="200"/>
-    <img src="Requirements/Photo_Codes/daily.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/egzersiz.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/egzersiz_2.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/okuma_asistanı.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/ffmpeg.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/okuma_a_code.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/okuma_a_code_2.png" width="200"/>
+    <img src="Requirements/Photo_Codes_2/okuma_a_sözlük.png" width="200"/>
 
   </p>
 
@@ -398,7 +395,7 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
     Sprint 3 goal: 450 points (remaining tasks and integrations) - 🔜
 
-Daily Scrum: [Sprint 2 Daily Scrum]()
+Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/sprint_2_daily_scrum)
 
 🧾 Sprint 2 Review Summaries
 
