@@ -324,22 +324,20 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <summary><h3>Sprint 2 - App Screenshots</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Authentication Pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Reading Exercise Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/social/signin.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/social/signup.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_2/okuma_asistanı.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Homepage and Location Pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Exercise Main Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/social/home1.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/social/home2.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/social/home3.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/egzersiz.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/egzersiz_2.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Dashboard Page </h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Detail Exercise Pages</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
@@ -354,12 +352,12 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
   <p align="center">
     <img src="Requirements/Photo_codes_2/egzersiz.png" width="200"/>
-    <img src="Requirements/Photo_Codes_2/egzersiz_2.png" width="200"/>
-    <img src="Requirements/Photo_Codes_2/okuma_asistanı.png" width="200"/>
-    <img src="Requirements/Photo_Codes_2/ffmpeg.png" width="200"/>
-    <img src="Requirements/Photo_Codes_2/okuma_a_code.png" width="200"/>
-    <img src="Requirements/Photo_Codes_2/okuma_a_code_2.png" width="200"/>
-    <img src="Requirements/Photo_Codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/egzersiz_2.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_asistanı.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/ffmpeg.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_code.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_code_2.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
   </p>
 </details>
 
