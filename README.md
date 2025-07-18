@@ -286,12 +286,14 @@ Sprint Retrospective Decisions:
   </details>
 
 
+
+
     <details>
-    <summary><h1>Sprint 1</h1></summary>
+    <summary><h1>Sprint 2</h1></summary>
 
 
   <details>
-    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
+    <summary><h3>Sprint 2 - App Screenshots</h3></summary>
   <table style="width: 100%;">
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Authentication Pages</h2></td>
@@ -320,7 +322,7 @@ Sprint Retrospective Decisions:
 
 
 <details>
-  <summary><h3>Sprint 1 - Sprint and Project Development Screenshots</h3></summary>
+  <summary><h3>Sprint 2 - Sprint and Project Development Screenshots</h3></summary>
 
   <p align="center">
     <img src="Requirements/Photo_Codes/model_user.png" width="200"/>
@@ -338,11 +340,11 @@ Sprint Retrospective Decisions:
 
 </details>
   <details>
-    <summary><h3>Sprint 1 - Board</h3></summary>
+    <summary><h3>Sprint 2 - Board</h3></summary>
     <img src="Requirements/general/sprint_1_board.png" style="max-width: 100%; height: auto;">
   </details>
   <details>
-    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
     <img src="Requirements/social/burndown_charts5.png" style="max-width: 100%; height: auto;">
     <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
   </details>
@@ -350,7 +352,7 @@ Sprint Retrospective Decisions:
 
   - **Sprint Notes**:
  
-Sprint 1 - Burndown Chart Sprint Notes:
+Sprint 2 - Burndown Chart Sprint Notes:
 
 * The design was developed using HTML and CSS.
 * A project management tool was chosen.
@@ -360,43 +362,62 @@ Sprint 1 - Burndown Chart Sprint Notes:
   
 Expected Point Completion and Logic:
 * Total target points: 900
-* Sprint 1 goal: 150 points (idea planning and design phase) — completed
+* Sprint 2 goal: 150 points (idea planning and design phase) — completed
 * Sprint 2 goal: 300 points (focused on coding and API integrations)
 * Sprint 3 goal: 450 points (remaining tasks and integrations)
 
 
-Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
+Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
 
-Sprint Review Summaries:
-* Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
-* Due to the app having different features, prioritization was challenging.
-* The habit-forming feature was highlighted.
-* Logo selection was quick, while choosing the brand name took longer.
-* The first week was spent on market research, user interviews, and creating a draft idea.
-* Designs were completed in the second week.
-* The project management method was determined, the team was introduced, and the system to be used in upcoming sprints was established.
-* Initially, there were no dates used in Notion; the next day’s tasks were discussed in daily Teams meetings. Later, dates were added for the burndown chart.
-* The first sprint planning was generally based on design and ideation and was productive.
-  
-Sprint Review Participants:
-* Alina Arıcı
-* Büşra Cankit
-* Elif Bilge Göl
-* Furkan Caniş
-* Kemal Baz
-  
-Sprint Retrospective Decisions:
-* Firebase setup will be done in the second sprint.
-* The app logo will be finalized.
-* All team members will write code together in the second sprint.
-* Free API research will be done for AI integration.
-* A light mode theme will be added to the app.
-* The daily section UI will be improved.
-* User profile creation and editing page will be developed.
-* Daily planner and calendar will be integrated.
-* Habit formation and tracking page will be completed.
-* Task list and reminder features will be added.
-* Goal tracking and analysis page will be developed.
+🧾 Sprint 2 Review Summaries
+
+    1 - Gelişim modeli mimarisi, kullanıcıya özel oyunlaştırılmış grafik tasarımı, kişiselleştirme sistemleri ve yapay zekâ destekli asistan gibi temel özelliklerin prototipleri ve yazılımsal altyapıları Kemal Baz, Furkan Caniş ve Büşra Cankit tarafından hazırlandı.
+
+    2 - Uygulamanın teknik olarak geniş kapsamlı olması, bu sprintte kodlama önceliklendirmesinde zorluklara neden oldu.
+
+    3 - Kullanıcı gelişim takip sistemi ve kişiselleştirme modülü öne çıkan odak noktaları oldu.
+
+    4 - Backend ve frontend arasında bağlantı kurmak için yapılan API entegrasyonları, sprint boyunca ekip koordinasyonunun odak noktasıydı.
+
+    5 - Dashboard tasarımı, veli paneli ve öğrenci gelişim paneli sprint boyunca işlevsel hale getirildi.
+
+    6 - Backend hata ayıklama ve sistem stabilizasyonu, Furkan ve Kemal tarafından sprint sonuna doğru başarıyla tamamlandı.
+
+    7 - Günlük Scrum toplantıları her gün Microsoft Teams üzerinden devam etti.
+
+    8 - Sprint başında görevler tarihsiz şekilde planlanıyordu ancak ilerleyen günlerde burndown chart için Notion’a tarih eklentileri yapıldı.
+
+    9 - Sprint 2, genel olarak uygulamanın teknik iskeletinin oturtulması ve tüm modüllerin kodsal altyapısının kurulması açısından verimli geçti.
+
+👥 Sprint Review Participants
+
+    Alina Arıcı
+    Büşra Cankit
+    Elif Bilge Göl
+    Furkan Caniş
+    Kemal Baz
+
+🔄 Sprint Retrospective Decisions
+
+    1 - Gelişim modeli mimarisine son rötuşlar eklenecek.
+
+    2 - Büşra, Elif, Alina tarafından sprint 3 içerisinde admin paneli rapoları için veri çalışmaları gerçekleştirilecek
+
+    3 - Furkan ve Kemal tarafından sprint 3 içerisinde admin paneli backend ve frontend tasarımları yapılandırması yapılacak.
+
+    4 - Kişiselleştirme modelinin sonuçları daha etkili analiz edilecek.
+
+    5 - Gelişim takip grafiğinin görsel sunumu güncellenecek.
+
+    6 - Kullanıcı gelişim dashboard’una yeni filtreleme ve sıralama özellikleri eklenecek.
+
+    7 - Öğrenci ve veli paneli arayüzleri sadeleştirilecek.
+
+    8 - Backend ve frontend arası veri senkronizasyonu geliştirilecek.
+
+    9 - Yapay zekâ asistanı için sesli yanıt prototip çalışması başlatılacak.
+
+    10 - Günlük takvim, hedef takibi ve alışkanlık modülü entegre şekilde çalışacak.
 
 
   </details>
