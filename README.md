@@ -353,7 +353,7 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   <summary><h3>Sprint 2 - Sprint and Project Development Screenshots</h3></summary>
 
   <p align="center">
-    <img src="Requirements/Photo_Codes_2/egzersiz.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/egzersiz.png" width="200"/>
     <img src="Requirements/Photo_Codes_2/egzersiz_2.png" width="200"/>
     <img src="Requirements/Photo_Codes_2/okuma_asistanı.png" width="200"/>
     <img src="Requirements/Photo_Codes_2/ffmpeg.png" width="200"/>
