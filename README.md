@@ -231,60 +231,88 @@ The platform aligns with social impact missions and scalable educational initiat
     <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
   </details>
 
-
   - **Sprint Notes**:
- 
-Sprint 1 - Burndown Chart Sprint Notes:
+   
+ ✏️ Burndown Chart Sprint Notes
 
-* The design was developed using HTML and CSS.
-* A project management tool was chosen.
-* Daily scrum meetings were held via Teams according to team members' availability.
-* It was decided to use email for the login system.
-
+    The design was developed using HTML and CSS.
+    
+    A project management tool was chosen.
+    
+    Daily scrum meetings were held via Teams according to team members' availability.
+    
+    It was decided to use email for the login system.
   
-Expected Point Completion and Logic:
-* Total target points: 900
-* Sprint 1 goal: 150 points (idea planning and design phase) — completed
-* Sprint 2 goal: 300 points (focused on coding and API integrations)
-* Sprint 3 goal: 450 points (remaining tasks and integrations)
+👇 Expected Point Completion and Logic
 
+    Total target points: 900 
+
+    Sprint 1 goal: 150 points (idea planning and design phase) — ✅
+
+    Sprint 2 goal: 300 points (focused on coding and API integrations) - 🔜
+
+    Sprint 3 goal: 450 points (remaining tasks and integrations) - 🔜
 
 Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
 
-Sprint Review Summaries:
-* Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
-* Due to the app having different features, prioritization was challenging.
-* The habit-forming feature was highlighted.
-* Logo selection was quick, while choosing the brand name took longer.
-* The first week was spent on market research, user interviews, and creating a draft idea.
-* Designs were completed in the second week.
-* The project management method was determined, the team was introduced, and the system to be used in upcoming sprints was established.
-* Initially, there were no dates used in Notion; the next day’s tasks were discussed in daily Teams meetings. Later, dates were added for the burndown chart.
-* The first sprint planning was generally based on design and ideation and was productive.
-  
-Sprint Review Participants:
-* Alina Arıcı
-* Büşra Cankit
-* Elif Bilge Göl
-* Furkan Caniş
-* Kemal Baz
-  
-Sprint Retrospective Decisions:
-* Firebase setup will be done in the second sprint.
-* The app logo will be finalized.
-* All team members will write code together in the second sprint.
-* Free API research will be done for AI integration.
-* A light mode theme will be added to the app.
-* The daily section UI will be improved.
-* User profile creation and editing page will be developed.
-* Daily planner and calendar will be integrated.
-* Habit formation and tracking page will be completed.
-* Task list and reminder features will be added.
-* Goal tracking and analysis page will be developed.
+🧾 Sprint 1 Review Summaries
 
+    1 - Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
+     
+    2 - Due to the app having different features, prioritization was challenging.
+    
+    3 - The habit-forming feature was highlighted.
+    
+    4 - Logo selection was quick, while choosing the brand name took longer.  
 
+    5 - The first week was spent on market research, user interviews, and creating a draft idea.
+  
+    6 - Designs were completed in the second week.
+  
+    7 - The project management method was determined, the team was introduced, and the system to be used in upcoming sprints was established.
+  
+    8 - Initially, there were no dates used in Notion; the next day’s tasks were discussed in daily Teams meetings. Later, dates were added for the burndown chart.
+  
+    9 - The first sprint planning was generally based on design and ideation and was productive.
+
+👥 Sprint 1 Review Participants
+
+    Alina Arıcı 📊
+    
+    Büşra Cankit 📊
+    
+    Elif Bilge Göl 📊
+    
+    Furkan Caniş 🤖
+    
+    Kemal Baz 🤖
+
+🔄 Sprint 1 Retrospective Decisions
+
+    1 - Firebase setup will be done in the second sprint.
+      
+    2 - The app logo will be finalized.
+      
+    3 - All team members will write code together in the second sprint.
+      
+    4 - Free API research will be done for AI integration.
+      
+    5 - A light mode theme will be added to the app.
+      
+    6 - The daily section UI will be improved.
+      
+    7 - User profile creation and editing page will be developed.
+      
+    8 - Daily planner and calendar will be integrated.
+      
+    9 - Habit formation and tracking page will be completed.
+      
+    10 - Task list and reminder features will be added.
+      
+    11 - Goal tracking and analysis page will be developed.
+      
   </details>
-
+  
 
 
 
@@ -351,27 +379,31 @@ Sprint Retrospective Decisions:
 
 
   - **Sprint Notes**:
- 
-Sprint 2 - Burndown Chart Sprint Notes:
+   
+✏️ Burndown Chart Sprint Notes
 
-* The design was developed using HTML and CSS.
-* A project management tool was chosen.
-* Daily scrum meetings were held via Teams according to team members' availability.
-* It was decided to use email for the login system.
+    The design was developed using HTML and CSS. 
 
+    A project management tool was chosen.
+
+    Daily scrum meetings were held via Teams according to team members' availability.
   
-Expected Point Completion and Logic:
-* Total target points: 900
-* Sprint 2 goal: 150 points (idea planning and design phase) — completed
-* Sprint 2 goal: 300 points (focused on coding and API integrations)
-* Sprint 3 goal: 450 points (remaining tasks and integrations)
+👇 Expected Point Completion and Logic
 
+    Total target points: 900 
+
+    Sprint 1 goal: 150 points (idea planning and design phase) — ✅
+
+    Sprint 2 goal: 300 points (focused on coding and API integrations) - ✅
+
+    Sprint 3 goal: 450 points (remaining tasks and integrations) - 🔜
 
 Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
 
 🧾 Sprint 2 Review Summaries
 
-    1 - Gelişim modeli mimarisi, kullanıcıya özel oyunlaştırılmış grafik tasarımı, kişiselleştirme sistemleri ve yapay zekâ destekli asistan gibi temel özelliklerin prototipleri ve yazılımsal altyapıları Kemal Baz, Furkan Caniş ve Büşra Cankit tarafından hazırlandı.
+    1 - Gelişim modeli mimarisi, kullanıcıya özel oyunlaştırılmış grafik tasarımı, kişiselleştirme sistemleri ve yapay zekâ destekli
+    asistan gibi temel özelliklerin prototipleri ve yazılımsal altyapıları Kemal Baz, Furkan Caniş ve Büşra Cankit tarafından hazırlandı.
 
     2 - Uygulamanın teknik olarak geniş kapsamlı olması, bu sprintte kodlama önceliklendirmesinde zorluklara neden oldu.
 
@@ -389,15 +421,19 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
     9 - Sprint 2, genel olarak uygulamanın teknik iskeletinin oturtulması ve tüm modüllerin kodsal altyapısının kurulması açısından verimli geçti.
 
-👥 Sprint Review Participants
+👥 Sprint 2 Review Participants
 
-    Alina Arıcı
-    Büşra Cankit
-    Elif Bilge Göl
-    Furkan Caniş
-    Kemal Baz
+    Alina Arıcı 📊
+    
+    Büşra Cankit 📊
+    
+    Elif Bilge Göl 📊
+    
+    Furkan Caniş 🤖
+    
+    Kemal Baz 🤖
 
-🔄 Sprint Retrospective Decisions
+🔄 Sprint 2 Retrospective Decisions
 
     1 - Gelişim modeli mimarisine son rötuşlar eklenecek.
 
@@ -421,3 +457,8 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
 
   </details>
+
+   <details>
+    <summary><h1>architecture diagram</h1></summary>
+
+   </details>
