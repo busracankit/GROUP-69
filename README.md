@@ -284,3 +284,119 @@ Sprint Retrospective Decisions:
 
 
   </details>
+
+
+    <details>
+    <summary><h1>Sprint 1</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Authentication Pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/social/signin.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/signup.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Homepage and Location Pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/social/home1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/home2.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/home3.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Dashboard Page </h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+  </table>
+  </details>   
+
+
+
+<details>
+  <summary><h3>Sprint 1 - Sprint and Project Development Screenshots</h3></summary>
+
+  <p align="center">
+    <img src="Requirements/Photo_Codes/model_user.png" width="200"/>
+    <img src="Requirements/Photo_Codes/functions_1.png" width="200"/>
+    <img src="Requirements/Photo_Codes/functions_2.png" width="200"/>
+    <img src="Requirements/Photo_Codes/auth.png" width="200"/>
+    <img src="Requirements/Photo_Codes/index.png" width="200"/>
+    <img src="Requirements/Photo_Codes/loginjs.png" width="200"/>
+    <img src="Requirements/Photo_Codes/team_letstep.png" width="200"/>
+    <img src="Requirements/Photo_Codes/main.png" width="200"/>
+    <img src="Requirements/Photo_Codes/map.png" width="200"/>
+    <img src="Requirements/Photo_Codes/daily.png" width="200"/>
+
+  </p>
+
+</details>
+  <details>
+    <summary><h3>Sprint 1 - Board</h3></summary>
+    <img src="Requirements/general/sprint_1_board.png" style="max-width: 100%; height: auto;">
+  </details>
+  <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="Requirements/social/burndown_charts5.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/social/burndown_charts.png" style="max-width: 100%; height: auto;">
+  </details>
+
+
+  - **Sprint Notes**:
+ 
+Sprint 1 - Burndown Chart Sprint Notes:
+
+* The design was developed using HTML and CSS.
+* A project management tool was chosen.
+* Daily scrum meetings were held via Teams according to team members' availability.
+* It was decided to use email for the login system.
+
+  
+Expected Point Completion and Logic:
+* Total target points: 900
+* Sprint 1 goal: 150 points (idea planning and design phase) — completed
+* Sprint 2 goal: 300 points (focused on coding and API integrations)
+* Sprint 3 goal: 450 points (remaining tasks and integrations)
+
+
+Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/Sprint%201%20Daily%20Scrum)
+
+Sprint Review Summaries:
+* Prototypes and designs were prepared by Kemal Baz and Furkan Caniş.
+* Due to the app having different features, prioritization was challenging.
+* The habit-forming feature was highlighted.
+* Logo selection was quick, while choosing the brand name took longer.
+* The first week was spent on market research, user interviews, and creating a draft idea.
+* Designs were completed in the second week.
+* The project management method was determined, the team was introduced, and the system to be used in upcoming sprints was established.
+* Initially, there were no dates used in Notion; the next day’s tasks were discussed in daily Teams meetings. Later, dates were added for the burndown chart.
+* The first sprint planning was generally based on design and ideation and was productive.
+  
+Sprint Review Participants:
+* Alina Arıcı
+* Büşra Cankit
+* Elif Bilge Göl
+* Furkan Caniş
+* Kemal Baz
+  
+Sprint Retrospective Decisions:
+* Firebase setup will be done in the second sprint.
+* The app logo will be finalized.
+* All team members will write code together in the second sprint.
+* Free API research will be done for AI integration.
+* A light mode theme will be added to the app.
+* The daily section UI will be improved.
+* User profile creation and editing page will be developed.
+* Daily planner and calendar will be integrated.
+* Habit formation and tracking page will be completed.
+* Task list and reminder features will be added.
+* Goal tracking and analysis page will be developed.
+
+
+  </details>
