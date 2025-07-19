@@ -352,10 +352,10 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
       <td colspan="4" style="text-align: center;"><h2>Data science studies </h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_3" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_1" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_2" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_4" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_3.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_1.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_2.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_4.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>   
@@ -373,10 +373,10 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <img src="Requirements/Photo_codes_2/okuma_a_code.png" width="200"/>
     <img src="Requirements/Photo_codes_2/okuma_a_code_2.png" width="200"/>
     <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_1" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_2" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_3" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_4" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_1.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_2.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_3.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_4.jpg" width="200"/>
   </p>
 </details>
 
