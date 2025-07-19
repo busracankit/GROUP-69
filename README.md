@@ -343,6 +343,16 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+     <tr>
+      <td colspan="4" style="text-align: center;"><h2>Data science studies </h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/social/dashboard.png" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>   
@@ -360,6 +370,13 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <img src="Requirements/Photo_codes_2/okuma_a_code.png" width="200"/>
     <img src="Requirements/Photo_codes_2/okuma_a_code_2.png" width="200"/>
     <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+
+
   </p>
 </details>
 
@@ -401,8 +418,8 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
 🧾 Sprint 2 Review Summaries
 
-    1 - The prototypes and software infrastructures of core features such as the development model architecture, gamified user-specific
-    graphic design, personalization systems, and AI-powered assistant were developed by Kemal Baz, Furkan Caniş, and Büşra Cankit.
+    1 - During Sprint 2, three exercises were successfully completed. Additionally, data processing and preparation efforts 
+    have reached approximately 70% completion. At this stage, the core architectural frameworks and functional infrastructures have been solidified.
 
     2 -The application's broad technical scope caused prioritization challenges in coding during this sprint.
 
