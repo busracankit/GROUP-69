@@ -583,23 +583,23 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
  🧾 Sprint 3 Review Summaries
 
-    1 - During Sprint 3, twelve core exercises were integrated into the backend, and new exercises were added to expand functionality. Additionally, real user data was successfully embedded into the system, and key parts of the individual development panel were refined and merged.
+    1 - During Sprint 3, significant progress was achieved, marking the completion of the project’s final development phase. A total of 12 core exercises were successfully integrated into the backend, and new exercises were added. Additionally, the AI-powered flashcard system and the Reading Assistant module were finalized and connected with real user data.
 
-    2 - The increasing complexity of personalized analysis features and admin panel logic led to challenges in managing interdependent development tasks during this sprint.
+    2 - Given the broad scope and final nature of this sprint, task prioritization became more intense, especially as UI polishing, backend stabilization, and integration efforts were required in parallel.
 
-    3 - The AI assistant module and disleksi flashcard feature became primary focus areas, with data from the reading assistant successfully utilized to enhance content.
+    3 - Key focus areas during this sprint included the individual development panel, where weekly progress and detailed daily analyses were merged into a unified view. The admin panel was also finalized, both in terms of functionality and visual refinement.
 
-    4 - Backend and frontend coordination continued through API integrations, particularly for admin and user dashboards, where multiple team members worked in sync.
+    4 - Backend-frontend API integrations were essential throughout Sprint 3, especially to connect the analytics, reporting, and personalization layers of the system.
+    
+    5 - Major interface components such as the dashboard, parent panel, student progress views, and admin report sections were all made fully functional. Additional efforts were placed on CSS styling and visual consistency.
 
-    5 - The admin panel, report view, and student-specific analytics sections were actively designed and improved, including major CSS enhancements for visual consistency.
+    6 - System debugging, backend adjustments, and real-data testing were completed by Furkan and Kemal. Their work ensured the platform was fully stable, reliable, and ready for final deployment.
 
-    6 - Backend bug fixes and final testing with real data were conducted by Furkan and Kemal, ensuring that the system was stable and responsive before feature freeze.
+    7 - Daily Scrum meetings continued regularly via Microsoft Teams, facilitating consistent progress tracking and prompt resolution of blockers.
 
-    7 - Daily Scrum meetings were consistently held via Microsoft Teams, enabling smooth collaboration and updates on ongoing issues.
+    8 - Unlike previous sprints, this sprint began with well-defined tasks and deadlines. The team utilized Notion more actively for date tracking and burndown chart generation, which improved visibility into sprint health.
 
-    8 - Unlike previous sprints, Sprint 3 started with a clearer task timeline, and date tracking in Notion was actively used to generate accurate burndown charts.
-
-    9 - Sprint 3 was highly productive in terms of finalizing core functionalities, enriching user-facing modules, and solidifying the business logic and admin-level controls of the application.
+    9 - Sprint 3 was not only productive but also conclusive, as it brought together all core modules—user, parent, and admin sides—into a cohesive and fully functional application. It also included documentation efforts, a feature demo video, and preparations for post-sprint presentation.
 
 
 
