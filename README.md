@@ -583,24 +583,23 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
 🧾 Sprint 3 Review Summaries
 
-    1 - During Sprint 2, three exercises were successfully completed. Additionally, data processing and preparation efforts 
-    have reached approximately 70% completion. At this stage, the core architectural frameworks and functional infrastructures have been solidified.
+  1 - During Sprint 3, twelve core exercises were integrated into the backend, and new exercises were added to expand functionality. Additionally, real user data was successfully embedded into the system, and key parts of the individual development panel were refined and merged.
 
-    2 -The application's broad technical scope caused prioritization challenges in coding during this sprint.
+2 - The increasing complexity of personalized analysis features and admin panel logic led to challenges in managing interdependent development tasks during this sprint.
 
-    3 - The user progress tracking system and personalization module became key focus areas.
+3 - The AI assistant module and disleksi flashcard feature became primary focus areas, with data from the reading assistant successfully utilized to enhance content.
 
-    4 - API integrations to connect backend and frontend were the main point of team coordination throughout the sprint.
+4 - Backend and frontend coordination continued through API integrations, particularly for admin and user dashboards, where multiple team members worked in sync.
 
-    5 - The dashboard design, parent panel, and student progress panel were made functional during the sprint.
+5 - The admin panel, report view, and student-specific analytics sections were actively designed and improved, including major CSS enhancements for visual consistency.
 
-    6 - Backend debugging and system stabilization were successfully completed towards the end of the sprint by Furkan and Kemal.
+6 - Backend bug fixes and final testing with real data were conducted by Furkan and Kemal, ensuring that the system was stable and responsive before feature freeze.
 
-    7 - Daily Scrum meetings were held every day via Microsoft Teams.
+7 - Daily Scrum meetings were consistently held via Microsoft Teams, enabling smooth collaboration and updates on ongoing issues.
 
-    8 - At the beginning of the sprint, tasks were planned without specific dates, but date fields were later added to Notion for burndown chart tracking.
+8 - Unlike previous sprints, Sprint 3 started with a clearer task timeline, and date tracking in Notion was actively used to generate accurate burndown charts.
 
-    9 - Sprint 2 was productive in terms of establishing the technical backbone of the application and setting up the codebase for all modules.
+9 - Sprint 3 was highly productive in terms of finalizing core functionalities, enriching user-facing modules, and solidifying the business logic and admin-level controls of the application.
 
 
 
