@@ -577,7 +577,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
     Sprint 2 goal: 300 points (focused on coding and API integrations) - ✅
 
-    Sprint 3 goal: 450 points (remaining tasks and integrations) - 🔜
+    Sprint 3 goal: 450 points (remaining tasks and integrations) - ✅
 
 Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/sprint_2_daily_scrum)
 
@@ -617,25 +617,25 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
 🔄 Sprint 3 Retrospective Decisions
 
-    1 - Final touches will be added to the development model architecture.
+    1 - The development model architecture was finalized with all modules fully integrated and aligned with the application’s functional goals.
     
-    2 - Data preparation for admin panel reports will be carried out by Büşra, Elif, and Alina during Sprint 3.
+    2 - Admin panel report data was successfully prepared and integrated by Büşra, Elif, and Alina, ensuring a complete and functional analytics view.
     
-    3 - Backend and frontend structuring of the admin panel will be handled by Furkan and Kemal in Sprint 3.
+    3 - Backend and frontend structuring of the admin panel was completed by Furkan and Kemal, including design improvements and backend logic refinements.
     
-    4 - The results of the personalization model will be analyzed more effectively.
+    4 - The personalization model results were analyzed and used effectively within the individual development panel and disleksi flashcard modules.
     
-    5 - The visual representation of the progress tracking graph will be updated.
+    5 - The progress tracking graphs were visually enhanced and optimized for clarity, especially in the General Overview and Exercise-Based Weekly Progress sections.
     
-    6 - New filtering and sorting features will be added to the user progress dashboard.
+    6 - Filtering and sorting options were introduced into the development dashboard, allowing users and admins to better navigate student data.
     
-    7 - The user interfaces of both student and parent panels will be simplified.
+    7 - User interfaces for both the student and parent panels were improved for simplicity and usability, with visual consistency across all screens.
     
-    8 - Data synchronization between backend and frontend will be improved.
+    8 - Data synchronization between backend and frontend was successfully stabilized through API adjustments and final bug fixes.
     
-    9 - A prototype for the AI assistant’s voice response feature will be initiated.
+    9 - The Reading Assistant was improved and integrated with the Flashcard Module. While using the assistant, users can now review their mispronounced words, compare them with correct pronunciations, and listen to accurate audio feedback for better learning.
     
-    10 - The daily calendar, goal tracking, and habit modules will be integrated and work together seamlessly.
+    10 - New development ideas were discussed, and the most promising suggestions were recorded for potential implementation.
 
 
   </details>
