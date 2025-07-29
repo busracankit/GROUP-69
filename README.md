@@ -548,7 +548,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
   <details>
     <summary><h3>Sprint 3 - Board</h3></summary>
-    <img src="Requirements/general/sprint_2_board.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/general/sprint_3_board.png" style="max-width: 100%; height: auto;">
   </details>
   <details>
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
