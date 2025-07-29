@@ -481,4 +481,168 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
 
    </details>
+
+    <details>
+    <summary><h1>Sprint 2</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 3 - App Screenshots</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Reading Exercise Page</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/okuma_asistanı.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Exercise Main Page</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/egzersiz.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/egzersiz_2.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Detail Exercise Pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_2.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_3.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_4.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_5.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+     <tr>
+      <td colspan="4" style="text-align: center;"><h2>Data science studies </h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_3.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_1.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_2.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_4.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+  </table>
+  </details>   
+
+
+
+<details>
+  <summary><h3>Sprint 3 - Sprint and Project Development Screenshots</h3></summary>
+
+  <p align="center">
+    <img src="Requirements/Photo_codes_2/egzersiz.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/egzersiz_2.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_asistanı.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/ffmpeg.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_code.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_code_2.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_1.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_2.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_3.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/app_4.jpg" width="200"/>
+  </p>
+</details>
+
+
+  <details>
+    <summary><h3>Sprint 3 - Board</h3></summary>
+    <img src="Requirements/general/sprint_2_board.png" style="max-width: 100%; height: auto;">
+  </details>
+  <details>
+    <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
+    <img src="Requirements/sprint_2_daily_scrum/burndown2.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/sprint_2_daily_scrum/burndown_chart2.png" style="max-width: 100%; height: auto;">
+  </details>
+  
+
+
+  - **Sprint Notes**:
+   
+✏️ Burndown Chart Sprint Notes
+
+
+    The design was developed using HTML and CSS. 
+
+    A project management tool was chosen.
+
+    Daily scrum meetings were held via Teams according to team members' availability.
+  
+👇 Expected Point Completion and Logic
+
+    Total target points: 900 
+
+    Sprint 1 goal: 150 points (idea planning and design phase) — ✅
+
+    Sprint 2 goal: 300 points (focused on coding and API integrations) - ✅
+
+    Sprint 3 goal: 450 points (remaining tasks and integrations) - 🔜
+
+Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/sprint_2_daily_scrum)
+
+🧾 Sprint 3 Review Summaries
+
+    1 - During Sprint 2, three exercises were successfully completed. Additionally, data processing and preparation efforts 
+    have reached approximately 70% completion. At this stage, the core architectural frameworks and functional infrastructures have been solidified.
+
+    2 -The application's broad technical scope caused prioritization challenges in coding during this sprint.
+
+    3 - The user progress tracking system and personalization module became key focus areas.
+
+    4 - API integrations to connect backend and frontend were the main point of team coordination throughout the sprint.
+
+    5 - The dashboard design, parent panel, and student progress panel were made functional during the sprint.
+
+    6 - Backend debugging and system stabilization were successfully completed towards the end of the sprint by Furkan and Kemal.
+
+    7 - Daily Scrum meetings were held every day via Microsoft Teams.
+
+    8 - At the beginning of the sprint, tasks were planned without specific dates, but date fields were later added to Notion for burndown chart tracking.
+
+    9 - Sprint 2 was productive in terms of establishing the technical backbone of the application and setting up the codebase for all modules.
+
+
+
+👥 Sprint 3 Review Participants
+
+    Alina Arıcı 📊
+    
+    Büşra Cankit 📊
+    
+    Elif Bilge Göl 📊
+    
+    Furkan Caniş 🤖
+    
+    Kemal Baz 🤖
+
+🔄 Sprint 3 Retrospective Decisions
+
+    1 - Final touches will be added to the development model architecture.
+    
+    2 - Data preparation for admin panel reports will be carried out by Büşra, Elif, and Alina during Sprint 3.
+    
+    3 - Backend and frontend structuring of the admin panel will be handled by Furkan and Kemal in Sprint 3.
+    
+    4 - The results of the personalization model will be analyzed more effectively.
+    
+    5 - The visual representation of the progress tracking graph will be updated.
+    
+    6 - New filtering and sorting features will be added to the user progress dashboard.
+    
+    7 - The user interfaces of both student and parent panels will be simplified.
+    
+    8 - Data synchronization between backend and frontend will be improved.
+    
+    9 - A prototype for the AI assistant’s voice response feature will be initiated.
+    
+    10 - The daily calendar, goal tracking, and habit modules will be integrated and work together seamlessly.
+
+
+  </details>
+
+   <details>
+    <summary><h1>Architecture</h1></summary>
+    <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
+
+   </details>
    
