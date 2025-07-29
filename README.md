@@ -482,8 +482,9 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
    </details>
 
-    <details>
-    <summary><h1>Sprint 3</h1></summary>
+   <details>
+    <summary><h1>Sprint 2</h1></summary>
+   <details>
 
 
   <details>
