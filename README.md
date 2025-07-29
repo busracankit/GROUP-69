@@ -494,33 +494,33 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
       <td colspan="4" style="text-align: center;"><h2>Reading Exercise Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/okuma_asistanı.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Exercise Main Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/egzersiz.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/egzersiz_2.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Detail Exercise Pages</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_1.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_2.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_3.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_4.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/exercise_5.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
     </tr>
      <tr>
       <td colspan="4" style="text-align: center;"><h2>Data science studies </h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_3.jpg" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_1.jpg" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_2.jpg" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/data_4.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>   
@@ -531,17 +531,17 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   <summary><h3>Sprint 3 - Sprint and Project Development Screenshots</h3></summary>
 
   <p align="center">
-    <img src="Requirements/Photo_codes_2/egzersiz.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/egzersiz_2.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/okuma_asistanı.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/ffmpeg.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/okuma_a_code.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/okuma_a_code_2.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/okuma_a_sözlük.png" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_1.jpg" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_2.jpg" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_3.jpg" width="200"/>
-    <img src="Requirements/Photo_codes_2/app_4.jpg" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/Photo_codes_2/" width="200"/>
   </p>
 </details>
 
@@ -552,8 +552,8 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   </details>
   <details>
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
-    <img src="Requirements/sprint_2_daily_scrum/burndown2.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/sprint_2_daily_scrum/burndown_chart2.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/sprint_2_daily_scrum/" style="max-width: 100%; height: auto;">
+    <img src="Requirements/sprint_2_daily_scrum/.png" style="max-width: 100%; height: auto;">
   </details>
   
 
