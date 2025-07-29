@@ -579,7 +579,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
     Sprint 3 goal: 450 points (remaining tasks and integrations) - ✅
 
-Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/sprint_2_daily_scrum)
+Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree/main/Requirements/sprint3_daily_scrum)
 
  🧾 Sprint 3 Review Summaries
 
