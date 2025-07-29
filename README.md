@@ -552,8 +552,8 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   </details>
   <details>
     <summary><h3>Sprint 3 - Burndown Chart</h3></summary>
-    <img src="Requirements/sprint_3_daily_scrum/burndownchart3.png" style="max-width: 100%; height: auto;">
-    <img src="Requirements/sprint_3_daily_scrum/burndownchartgraph3.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/sprint3_daily_scrum/burndownchart3.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/sprint3_daily_scrum/burndownchartgraph3.png" style="max-width: 100%; height: auto;">
   </details>
   
 
