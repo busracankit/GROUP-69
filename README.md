@@ -476,7 +476,11 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
   </details>
 
-   
+   <details>
+    <summary><h1>Architecture</h1></summary>
+    <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
+
+   </details>
 
    <details>
     <summary><h1>Sprint 3</h1></summary>
@@ -649,9 +653,5 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
  
   </details>
 
-  <details>
-    <summary><h1>Architecture</h1></summary>
-    <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
-
-   </details>
+  
    
