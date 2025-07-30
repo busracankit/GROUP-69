@@ -476,11 +476,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
   </details>
 
-   <details>
-    <summary><h1>Architecture</h1></summary>
-    <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
-
-   </details>
+   
 
    <details>
     <summary><h1>Sprint 3</h1></summary>
@@ -649,8 +645,13 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
       🔍 Letter Microscope Interaction
            A playful learning module where students interact with letters by zooming in, revealing animated visuals of objects that start with the selected letter (e.g., zooming into the letter "B" reveals a balloon, a bike, a ball). This strengthens letter-sound associations through visual reinforcement and interactive engagement.
+
  
   </details>
 
-  
+  <details>
+    <summary><h1>Architecture</h1></summary>
+    <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
+
+   </details>
    
