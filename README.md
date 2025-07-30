@@ -649,16 +649,29 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
 🔧 Development Ideas
     
-    🧒 Student-Centered Feature Proposals
-     
-      🧠 Emotional Reflection Panel
-           A dedicated interface where students are prompted to reflect on their emotions regularly. For younger learners, emoji-based responses are used. This emotional data is then incorporated into weekly performance analytics to better understand the correlation between emotional state and academic progress.
+   🧠 Learning Experience Enchancements
 
-      ✏️ Creative Expression Notebook ("Dream Journal")
+      ✍️ Creative Expression Notebook ("Dream Journal")
            Students are provided with specific words—ideally those they struggle with—and asked to write short stories using them. This not only reinforces vocabulary retention but also encourages creative thinking and narrative skills. In future iterations, students may be invited to complement their stories with drawings.
 
       🔍 Letter Microscope Interaction
            A playful learning module where students interact with letters by zooming in, revealing animated visuals of objects that start with the selected letter (e.g., zooming into the letter "B" reveals a balloon, a bike, a ball). This strengthens letter-sound associations through visual reinforcement and interactive engagement.
+
+       📖 Audio Library System
+            A dedicated audio library will be created by integrating licensed children's books into the mobile application. Students will be able to listen to these books or read them aloud while recording their voice through the app. These recordings will enable the system to track how much the student has read, the reading duration, regularity, and reading progress. The system is designed to encourage reading habits and make the reading experience more enjoyable.    
+
+   🪞 Emotional & Behavioral Insights
+
+       😊 Emotional Reflection Panel
+           A dedicated interface where students are prompted to reflect on their emotions regularly. For younger learners, emoji-based responses are used. This emotional data is then incorporated into weekly performance analytics to better understand the correlation between emotional state and academic progress.   🧭 Personalized Guidance Tools
+
+       📅 Daily Study Calendar
+           A personalized scheduling feature that enables teachers or parents to create daily study plans based on the student’s most focused times of day. By aligning learning sessions with each student’s natural productivity rhythm, this tool encourages consistency, motivation, and more efficient learning outcomes.
+
+   📊 Data-Driven Reporting and Analysis      
+
+       📈 Learning Stability Forecasting System
+          Student errors are tracked as a time series. Mean-reversion is analyzed using ADF and ACF/PACF. If errors keep returning to the same level, exercises at those points are flagged and personalized interventions are applied. Helps detect unstable learning patterns and supports targeted support plans.
 
  
   </details>
