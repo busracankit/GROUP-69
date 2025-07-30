@@ -637,7 +637,17 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     
     10 - New development ideas were discussed, and the most promising suggestions were recorded for potential implementation.
 
+🔧 Development Ideas
+    🧒 Student-Centered Feature Proposals
+      🧠 Emotional Reflection Panel
+           A dedicated interface where students are prompted to reflect on their emotions regularly. For younger learners, emoji-based responses are used. This emotional data is then incorporated into weekly performance analytics to better understand the correlation between emotional state and academic progress.
 
+      ✏️ Creative Expression Notebook ("Dream Journal")
+           Students are provided with specific words—ideally those they struggle with—and asked to write short stories using them. This not only reinforces vocabulary retention but also encourages creative thinking and narrative skills. In future iterations, students may be invited to complement their stories with drawings.
+
+      🔍 Letter Microscope Interaction
+           A playful learning module where students interact with letters by zooming in, revealing animated visuals of objects that start with the selected letter (e.g., zooming into the letter "B" reveals a balloon, a bike, a ball). This strengthens letter-sound associations through visual reinforcement and interactive engagement.
+ 
   </details>
 
   
