@@ -241,13 +241,16 @@ The platform aligns with social impact missions and scalable educational initiat
     
     Workload: 35 points of the 150-point workload remain (115/150 completed).
     
-    Tasks: Many important tasks, including the Development Panel, Mind Map Module, and Authentication System, were not completed by the end     of the sprint.
+    Tasks: Many important tasks, including the Development Panel, Mind Map Module, and Authentication System,
+    were not completed by the end of the sprint.
     
     Performance: The team consistently lagged behind the ideal progress line from the beginning to the end of the sprint.
     
-    Key Outputs (Completed): Generally, initial and research tasks such as market research, problem analysis, and setting up the project        infrastructure were completed.
+    Key Outputs (Completed): Generally, initial and research tasks such as market research, problem analysis, and setting up 
+    the project infrastructure were completed.
     
-    Conclusion: The sprint did not meet its goals. The project is significantly behind schedule, and urgent planning is required for the        remaining work.
+    Conclusion: The sprint did not meet its goals. The project is significantly behind schedule, and urgent planning is required
+    for the remaining work.
   
 👇 Expected Point Completion and Logic
 
