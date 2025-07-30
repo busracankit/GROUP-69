@@ -638,7 +638,9 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     10 - New development ideas were discussed, and the most promising suggestions were recorded for potential implementation.
 
 🔧 Development Ideas
+    
     🧒 Student-Centered Feature Proposals
+     
       🧠 Emotional Reflection Panel
            A dedicated interface where students are prompted to reflect on their emotions regularly. For younger learners, emoji-based responses are used. This emotional data is then incorporated into weekly performance analytics to better understand the correlation between emotional state and academic progress.
 
