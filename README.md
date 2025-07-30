@@ -559,12 +559,13 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
    
 ✏️ Burndown Chart Sprint Notes
 
-
-    The design was developed using HTML and CSS. 
-
-    A project management tool was chosen.
-
-    Daily scrum meetings were held via Teams according to team members' availability.
+    Date Range: 21.07.2025 - 03.08.2025 (14 Days).
+    Workload: The entire 450 points of work were completed (450/450).
+    Tasks: All 30 planned tasks were completed.
+    Performance: The team's performance was very close to the ideal trend line throughout the sprint.
+    Key Outputs: Critical tasks such as User/Parent/Admin panels, reading assistant features, 
+    AI infrastructure, and the demo video were completed.
+    Conclusion: The sprint has met its goals on time and in full.
   
 👇 Expected Point Completion and Logic
 
