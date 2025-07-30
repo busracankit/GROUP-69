@@ -236,14 +236,18 @@ The platform aligns with social impact missions and scalable educational initiat
   - **Sprint Notes**:
    
  ✏️ Burndown Chart Sprint Notes
-
-    The design was developed using HTML and CSS.
+ 
+    Date Range: 26.06.2025 - 07.07.2025 (12 Days).
     
-    A project management tool was chosen.
+    Workload: 35 points of the 150-point workload remain (115/150 completed).
     
-    Daily scrum meetings were held via Teams according to team members' availability.
+    Tasks: Many important tasks, including the Development Panel, Mind Map Module, and Authentication System, were not completed by the end     of the sprint.
     
-    It was decided to use email for the login system.
+    Performance: The team consistently lagged behind the ideal progress line from the beginning to the end of the sprint.
+    
+    Key Outputs (Completed): Generally, initial and research tasks such as market research, problem analysis, and setting up the project        infrastructure were completed.
+    
+    Conclusion: The sprint did not meet its goals. The project is significantly behind schedule, and urgent planning is required for the        remaining work.
   
 👇 Expected Point Completion and Logic
 
