@@ -474,7 +474,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     10 - The daily calendar, goal tracking, and habit modules will be integrated and work together seamlessly.
 
 
-  </details>
+ 
 
    <details>
     <summary><h1>Architecture</h1></summary>
