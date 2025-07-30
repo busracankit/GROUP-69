@@ -399,12 +399,17 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 ✏️ Burndown Chart Sprint Notes
 
     Date Range: 09.07.2025 - 20.07.2025 (12 Days).
+    
     Workload: The entire 275 points of work were completed (275/275).
+    
     Tasks: All 20 planned tasks were completed.
+    
     Performance: The team fell behind the ideal line in the first half of the sprint but increased 
     its performance in the second half to finish the sprint on time.
+    
     Key Outputs: Core developments such as the development architecture, 
     integration of the personalization model, backend debugging, and the AI-powered reading assistant were completed.
+    
     Conclusion: Despite a slowdown in the middle, the sprint reached its goals on time with an effective recovery.
   
 👇 Expected Point Completion and Logic
@@ -562,11 +567,16 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 ✏️ Burndown Chart Sprint Notes
 
     Date Range: 21.07.2025 - 03.08.2025 (14 Days).
+    
     Workload: The entire 450 points of work were completed (450/450).
+    
     Tasks: All 30 planned tasks were completed.
+    
     Performance: The team's performance was very close to the ideal trend line throughout the sprint.
+    
     Key Outputs: Critical tasks such as User/Parent/Admin panels, reading assistant features, 
     AI infrastructure, and the demo video were completed.
+    
     Conclusion: The sprint has met its goals on time and in full.
   
 👇 Expected Point Completion and Logic
