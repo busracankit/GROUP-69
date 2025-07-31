@@ -689,5 +689,8 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <summary><h1>Architecture</h1></summary>
     <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
 
- 
+  <details>
+    <summary><h1>Business Model Canvas</h1></summary>
+    <img src="Requirements/general/sprint_3_board.png" style="max-width: 100%; height: auto;">
+  </details>
    
