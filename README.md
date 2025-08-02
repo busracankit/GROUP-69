@@ -600,23 +600,32 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
  🧾 Sprint 3 Review Summaries
 
-    1 - During Sprint 3, significant progress was achieved, marking the completion of the project’s final development phase. A total of 12 core exercises were successfully integrated into the backend, and new exercises were added. Additionally, the AI-powered flashcard system and the Reading Assistant module were finalized and connected with real user data.
+    1 - During Sprint 3, significant progress was achieved, marking the completion of the project’s final development phase.
+    A total of 12 core exercises were successfully integrated into the backend, and new exercises were added. Additionally,
+    the AI-powered flashcard system and the Reading Assistant module were finalized and connected with real user data.
 
-    2 - Given the broad scope and final nature of this sprint, task prioritization became more intense, especially as UI polishing, backend stabilization, and integration efforts were required in parallel.
+    2 - Given the broad scope and final nature of this sprint, task prioritization became more intense, especially as UI polishing,
+    backend stabilization, and integration efforts were required in parallel.
 
-    3 - Key focus areas during this sprint included the individual development panel, where weekly progress and detailed daily analyses were merged into a unified view. The admin panel was also finalized, both in terms of functionality and visual refinement.
+    3 - Key focus areas during this sprint included the individual development panel, where weekly progress and detailed daily
+    analyses were merged into a unified view. The admin panel was also finalized, both in terms of functionality and visual refinement.
 
     4 - Backend-frontend API integrations were essential throughout Sprint 3, especially to connect the analytics, reporting, and personalization layers of the system.
     
-    5 - Major interface components such as the dashboard, parent panel, student progress views, and admin report sections were all made fully functional. Additional efforts were placed on CSS styling and visual consistency.
+    5 - Major interface components such as the dashboard, parent panel, student progress views, and admin report sections were
+    all made fully functional. Additional efforts were placed on CSS styling and visual consistency.
 
-    6 - System debugging, backend adjustments, and real-data testing were completed by Furkan and Kemal. Their work ensured the platform was fully stable, reliable, and ready for final deployment.
+    6 - System debugging, backend adjustments, and real-data testing were completed by Furkan and Kemal. Their work ensured 
+    the platform was fully stable, reliable, and ready for final deployment.
 
     7 - Daily Scrum meetings continued regularly via Microsoft Teams, facilitating consistent progress tracking and prompt resolution of blockers.
 
-    8 - Unlike previous sprints, this sprint began with well-defined tasks and deadlines. The team utilized Notion more actively for date tracking and burndown chart generation, which improved visibility into sprint health.
+    8 - Unlike previous sprints, this sprint began with well-defined tasks and deadlines. The team utilized Notion more 
+    actively for date tracking and burndown chart generation, which improved visibility into sprint health.
 
-    9 - Sprint 3 was not only productive but also conclusive, as it brought together all core modules—user, parent, and admin sides—into a cohesive and fully functional application. It also included documentation efforts, a feature demo video, and preparations for post-sprint presentation.
+    9 - Sprint 3 was not only productive but also conclusive, as it brought together all core modules—user, parent, and admin 
+    sides—into a cohesive and fully functional application. It also included documentation efforts,
+    a feature demo video, and preparations for post-sprint presentation.
 
 
 
@@ -650,37 +659,44 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     
     8 - Data synchronization between backend and frontend was successfully stabilized through API adjustments and final bug fixes.
     
-    9 - The Reading Assistant was improved and integrated with the Flashcard Module. While using the assistant, users can now review their mispronounced words, compare them with correct pronunciations, and listen to accurate audio feedback for better learning.
+    9 - The Reading Assistant was improved and integrated with the Flashcard Module. While using the assistant, 
+    users can now review their mispronounced words, compare them with correct pronunciations, and listen to accurate audio feedback for better learning.
     
     10 - New development ideas were discussed, and the most promising suggestions were recorded for potential implementation.
 
 🔧 Development Ideas
     
     🧠 Learning Experience Enchancements
+ 
+    ✍️ Creative Expression Notebook ("Dream Journal")
+        Students are provided with specific words—ideally those they struggle with—and asked to write short stories using them.
+        This not only reinforces vocabulary retention but also encourages creative thinking and narrative skills.
+        In future iterations, students may be invited to complement their stories with drawings.
+ 
+    🔍 Letter Microscope Interaction
+        A playful learning module where students interact with letters by zooming in, revealing animated visuals of objects 
+        that start with the selected letter (e.g., zooming into the letter "B" reveals a balloon, a bike, a ball).
+        This strengthens letter-sound associations through visual reinforcement and interactive engagement.
 
-       ✍️ Creative Expression Notebook ("Dream Journal")
-           Students are provided with specific words—ideally those they struggle with—and asked to write short stories using them. This not only reinforces vocabulary retention but also encourages creative thinking and narrative skills. In future iterations, students may be invited to complement their stories with drawings.
-
-       🔍 Letter Microscope Interaction
-           A playful learning module where students interact with letters by zooming in, revealing animated visuals of objects that start with the selected letter (e.g., zooming into the letter "B" reveals a balloon, a bike, a ball). This strengthens letter-sound associations through visual reinforcement and interactive engagement.
-
-        📖 Audio Library System
-            A dedicated audio library will be created by integrating licensed children's books into the mobile application. Students will be able to listen to these books or read them aloud while recording their voice through the app. These recordings will enable the system to track how much the student has read, the reading duration, regularity, and reading progress. The system is designed to encourage reading habits and make the reading experience more enjoyable.    
+    📖 Audio Library System
+        A dedicated audio library will be created by integrating licensed children's books into the mobile application. 
+        Students will be able to listen to these books or read them aloud while recording their voice through the app.
+        These recordings will enable the system to track how much the student has read, the reading duration, regularity, and reading progress.
+        The system is designed to encourage reading habits and make the reading experience more enjoyable.    
 
     🪞 Emotional & Behavioral Insights
 
-        😊 Emotional Reflection Panel
-           A dedicated interface where students are prompted to reflect on their emotions regularly. For younger learners, emoji-based responses are used. This emotional data is then incorporated into weekly performance analytics to better understand the correlation between emotional state and academic progress.   🧭 Personalized Guidance Tools
-
-    🧭 Personalized Guidance Tools
-    
-        📅 Daily Study Calendar
-           A personalized scheduling feature that enables teachers or parents to create daily study plans based on the student’s most focused times of day. By aligning learning sessions with each student’s natural productivity rhythm, this tool encourages consistency, motivation, and more efficient learning outcomes.
-
+    😊 Emotional Reflection Panel
+       A dedicated interface where students are prompted to reflect on their emotions regularly. For younger learners,
+       emoji-based responses are used. This emotional data is then incorporated into weekly performance
+       analytics to better understand the correlation between emotional state and academic progress. 
+       
     📊 Data-Driven Reporting and Analysis      
 
-        📈 Learning Stability Forecasting System
-           Student errors are tracked as a time series. Mean-reversion is analyzed using ADF and ACF/PACF. If errors keep returning to the same level, exercises at those points are flagged and personalized interventions are applied. Helps detect unstable learning patterns and supports targeted support plans.
+    📈 Learning Stability Forecasting System
+       Student errors are tracked as a time series. Mean-reversion is analyzed using ADF and ACF/PACF. 
+       If errors keep returning to the same level, exercises at those points are flagged and personalized
+       interventions are applied. Helps detect unstable learning patterns and supports targeted support plans.
 
  
   </details>
