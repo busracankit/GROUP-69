@@ -685,7 +685,8 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
         The system is designed to encourage reading habits and make the reading experience more enjoyable.    
         
     🟥 Color & Sound Memory Game
-        A multisensory memory game where colorful buttons light up in a sequence, each paired with a distinct sound (e.g., red = “do”, yellow = “re”).
+        A multisensory memory game where colorful buttons light up in a sequence, 
+        each paired with a distinct sound (e.g., red = “do”, yellow = “re”).
         Students observe and hear the sequence, then repeat it by tapping the buttons in the same order. 
         Each correct answer extends the sequence. This enhances visual-auditory memory, attention, and sequencing skills.
         By engaging both sight and hearing, it supports sensory integration—a key need for students with dyslexia.
