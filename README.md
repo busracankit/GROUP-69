@@ -710,7 +710,7 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
    <details>
     <summary><h1>Architecture</h1></summary>
-    <img src="Requirements/general/artc_project.png" style="max-width: 100%; height: auto;">
+    <img src="Requirements/general/architecture_project_sprint3.png" style="max-width: 100%; height: auto;">
    </details>
 
    <details>
