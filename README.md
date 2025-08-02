@@ -683,7 +683,13 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
         Students will be able to listen to these books or read them aloud while recording their voice through the app.
         These recordings will enable the system to track how much the student has read, the reading duration, regularity, and reading progress.
         The system is designed to encourage reading habits and make the reading experience more enjoyable.    
-
+        
+    🟥 Color & Sound Memory Game
+        A multisensory memory game where colorful buttons light up in a sequence, each paired with a distinct sound (e.g., red = “do”, yellow = “re”).
+        Students observe and hear the sequence, then repeat it by tapping the buttons in the same order. Each correct answer extends the sequence.
+        This enhances visual-auditory memory, attention, and sequencing skills. By engaging both sight and hearing, it supports sensory integration—a key need for students with dyslexia.
+        Repeated exposure to sounds also reinforces pronunciation and passive language acquisition.
+        
     🪞 Emotional & Behavioral Insights
 
     😊 Emotional Reflection Panel
@@ -697,8 +703,7 @@ Daily Scrum: [Sprint 3 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
        Student errors are tracked as a time series. Mean-reversion is analyzed using ADF and ACF/PACF. 
        If errors keep returning to the same level, exercises at those points are flagged and personalized
        interventions are applied. Helps detect unstable learning patterns and supports targeted support plans.
-
- 
+       
   </details>
 
    <details>
