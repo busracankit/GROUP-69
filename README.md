@@ -240,7 +240,7 @@ The platform aligns with social impact missions and scalable educational initiat
     
     Date Range: 26.06.2025 - 07.07.2025 (12 Days).
     
-    Workload: The entire 140 points of work were completed (140/140).
+    Workload: The entire 150 points of work were completed (150/150).
     
     Tasks: All 15 planned tasks were completed.
     
@@ -407,7 +407,7 @@ Daily Scrum: [Sprint 1 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
 
     Date Range: 09.07.2025 - 20.07.2025 (12 Days).
     
-    Workload: The entire 275 points of work were completed (275/275).
+    Workload: The entire 300 points of work were completed (300/300).
     
     Tasks: All 20 planned tasks were completed.
     
