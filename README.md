@@ -567,10 +567,10 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
       <td colspan="4" style="text-align: center;"><h2>Error Pages</h2></td>
     </tr>
     <tr>
-      <td style="width: 40%;"><img src="Requirements/photo_codes_3/error_page.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 40%;"><img src="Requirements/photo_codes_3/error_page2.png" style="max-width: 100%; height: auto;"></td>
-         <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page3.png" style="max-width: 100%; height: auto;"></td>
-         <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page5.png" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page.png" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page2.png" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page3.png" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page5.png" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>   
