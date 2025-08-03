@@ -548,7 +548,6 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris2.png" style="max-width: 100%; height: auto;"></td>
-         <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris4.png" style="max-width: 100%; height: auto;"></td>
         <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli3.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
