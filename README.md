@@ -529,7 +529,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli5.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli6.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli7.png" style="max-width: 100%; height: auto;"></td>
-   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli14.jpg" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli14.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli8.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli10.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli11.png" style="max-width: 100%; height: auto;"></td>
