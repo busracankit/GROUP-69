@@ -502,36 +502,64 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <summary><h3>Sprint 3 - App Screenshots</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Reading Exercise Page</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Admin Panel Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli.png" style="max-width: 100%; height: auto;"></td>
+     <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli2.png" style="max-width: 100%; height: auto;"></td>
+     <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli3.png" style="max-width: 100%; height: auto;"></td>
+     <td style="width: 25%;"><img src="Requirements/photo_codes_3/raporlar.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Exercise Main Page</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Progress Report Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/bireysel_gelisim.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/bireysel_gelisim2.png" style="max-width: 100%; height: auto;"></td>
+     <td style="width: 25%;"><img src="Requirements/photo_codes_3/gelisim_raporu5.png" style="max-width: 100%; height: auto;"></td>
+    </tr> 
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Parents Report Page</h2></td>
+    </tr>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli1.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli2.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli3.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli4.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli5.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli6.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Detail Exercise Pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Dyslexia Flashcards</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/kelime_asistanı.png" style="max-width: 100%; height: auto;"></td> 
     </tr>
      <tr>
-      <td colspan="4" style="text-align: center;"><h2>Data science studies </h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Personalized Daily Calendar </h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/Photo_codes_2/" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/kisisellestirilmisplan.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/kisisellesitirilmisplan2.png" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="Requirements/photo_codes_3/yapay_zeka_planı.png" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="Requirements/photo_codes_3/yapay_zeka_planı2.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+   <tr>
+      <td colspan="4" style="text-align: center;"><h2>Home Pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris2.png" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris3.png" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris4.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Error Pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page2.png" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page3.png" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="Requirements/photo_codes_3/error_page5.png" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
   </details>   
@@ -542,17 +570,12 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
   <summary><h3>Sprint 3 - Sprint and Project Development Screenshots</h3></summary>
 
   <p align="center">
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
-    <img src="Requirements/Photo_codes_2/" width="200"/>
+    <img src="Requirements/photo_codes_3/kod.png" width="200"/>
+    <img src="Requirements/photo_codes_3/kod2.png" width="200"/>
+    <img src="Requirements/photo_codes_3/kod3.png" width="200"/>
+    <img src="Requirements/photo_codes_3/kod5.png" width="200"/>
+    <img src="Requirements/photo_codes_3/kod7.png" width="200"/>
+    <img src="Requirements/photo_codes_3/kod8.png" width="200"/>
   </p>
 </details>
 
