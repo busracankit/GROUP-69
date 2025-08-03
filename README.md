@@ -535,7 +535,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
       <td style="width: 25%;"><img src="Requirements/photo_codes_3/kelime_asistanı.png" style="max-width: 100%; height: auto;"></td> 
     </tr>
      <tr>
-      <td colspan="4" style="text-align: center;"><h2>Personalized Daily Calendar </h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Personalized Daily Calendar With AI </h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/photo_codes_3/kisiselleştirilmisplan.png" style="max-width: 100%; height: auto;"></td>
@@ -544,7 +544,7 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
          <td style="width: 25%;"><img src="Requirements/photo_codes_3/yapay_zeka_planı2.png" style="max-width: 100%; height: auto;"></td>
     </tr>
    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Home Pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Teacher Register And Reset Password pages</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris.png" style="max-width: 100%; height: auto;"></td>
