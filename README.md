@@ -521,12 +521,18 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Parents Report Page</h2></td>
     </tr>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneligiris.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli1.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli2.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli3.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli4.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli5.png" style="max-width: 100%; height: auto;"></td>
    <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli6.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli7.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli14.jpg" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli8.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli10.png" style="max-width: 100%; height: auto;"></td>
+   <td style="width: 25%;"><img src="Requirements/photo_codes_3/veli_paneli11.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Dyslexia Flashcards</h2></td>
