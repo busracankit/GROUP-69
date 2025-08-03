@@ -514,9 +514,9 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
       <td colspan="4" style="text-align: center;"><h2>Progress Report Page</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/photo_codes_3/bireysel_gelisim.png" style="max-width: 200%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Requirements/photo_codes_3/bireysel_gelisim2.png" style="max-width: 200%; height: auto;"></td>
-     <td style="width: 25%;"><img src="Requirements/photo_codes_3/gelisim_raporu5.png" style="max-width: 200%; height: auto;"></td>
+      <td style="width: 50%;"><img src="Requirements/photo_codes_3/bireysel_gelisim.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 50%;"><img src="Requirements/photo_codes_3/bireysel_gelisim2.png" style="max-width: 100%; height: auto;"></td>
+     <td style="width: 25%;"><img src="Requirements/photo_codes_3/gelisim_raporu5.png" style="max-width: 100%; height: auto;"></td>
     </tr> 
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Parents Report Page</h2></td>
