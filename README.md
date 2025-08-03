@@ -507,8 +507,8 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
     <tr>
       <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli.png" style="max-width: 100%; height: auto;"></td>
      <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli2.png" style="max-width: 100%; height: auto;"></td>
-     <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli3.png" style="max-width: 100%; height: auto;"></td>
      <td style="width: 25%;"><img src="Requirements/photo_codes_3/raporlar.png" style="max-width: 100%; height: auto;"></td>
+     <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Progress Report Page</h2></td>
@@ -544,14 +544,20 @@ Daily Scrum: [Sprint 2 Daily Scrum](https://github.com/busracankit/GROUP-69/tree
          <td style="width: 25%;"><img src="Requirements/photo_codes_3/yapay_zeka_planı2.png" style="max-width: 100%; height: auto;"></td>
     </tr>
    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Teacher Register And Reset Password pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Teacher Register</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris.png" style="max-width: 100%; height: auto;"></td>
       <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris2.png" style="max-width: 100%; height: auto;"></td>
-         <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris3.png" style="max-width: 100%; height: auto;"></td>
          <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris4.png" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="Requirements/photo_codes_3/admin_paneli3.png" style="max-width: 100%; height: auto;"></td>
     </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Reset Password</h2></td>
+    </tr>
+     <tr>
+        <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris3.png" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="Requirements/photo_codes_3/giris4.png" style="max-width: 100%; height: auto;"></td>
+      </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Error Pages</h2></td>
     </tr>
